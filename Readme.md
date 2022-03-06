@@ -45,15 +45,21 @@
 [1]
 ## INTRODUCTION
 ![LoS VR Avatar Icon 1080](https://user-images.githubusercontent.com/78007822/156913969-0a6abc50-050d-462e-a7bb-2083b720f9ef.png)
-### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 12 Zelda inspired mods and so much more, this includes:
- 
- - **A custom Tri-Force logo.**
- - **Zelda intro and in-game music overhaul.**
- - 
- - **A Hylian item loot system.**
- - **Princess Zelda Follower.**
- - **Unique monsters alongside old and new Zelda creatures.**
- - **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
+### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding several Zelda inspired mods and so much more, this includes:
+
+ - **Green Rupees**
+ - **HookShot Claw**
+ - **Epona, Links Horse**
+ - **Hylian Race - Play as Link**
+ - **A Custom Tri-Force Intro Logo.**
+ - **Randomly Enchanted Hylian Loot.**
+ - **Princess Zelda Follower and Her Attire.**
+ - **A Hyrule Castle Player Home and the Iron Knuckle Follower**
+ - **Discover Unique Monsters Alongside Old and New Zelda Creatures.**
+ - **Legend of Zelda Music Intro and a Full In-Game Zelda Music Overhaul.**
+ - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover**
+ - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
+ - **A Sprawling Multi-Dungeon System Called Skyrim Underground, with 65 Additional Forgotten Dungeons.**
 #
 [2]
 ## RECOMMENDED SPECS FOR LoSVR
@@ -78,14 +84,11 @@
  - **Nvidia 3090 GPU**
 #
 [3]
+## Mod List Features
 - **Fine-Tuned Challenge mod difficulty settings replace the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between... with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this category, right click them and 'visit on nexus' for more info.**
-
-- **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
-
+- **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful.**
 - **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated to my knowledge.**
-
 - **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
-#
 - **LoSVR is a high performance, simple to setup, Zelda themed VR modlist.**
 #
 [4]
@@ -93,7 +96,7 @@
 ### **From here forward I will be using 2 terms over and over.**
 ### **HIGHLY RECOMMENDED  and  CRITICAL.**
 ### **HR is IMPORTANT, but also with flexibility towards other configurations if the user desires.**
-### **CR is MANDATORY, to make the game run properly, or as DVR was intended to run, in all aspects.**
+### **CR is MANDATORY, to make the game run properly, or as LoSVR was intended to run, in all aspects.**
 ### **PLEASE pay attention to these words thoughout the rest of this guide.**
 #
 [4a]
@@ -115,7 +118,7 @@
 ## When you are finished adjusting these settings above, simply close SkyrimVR and continue following this install guide.
 [4b]
 ### Windows Antivirus and Firewall Settings
- - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (DVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)**
+ - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (LoSVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
 **Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.**
 
@@ -153,7 +156,7 @@
 ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 #
 [4d]
-## Wabbajack and DVR Install
+## Wabbajack and LoSVR Install
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
@@ -163,9 +166,9 @@
 
 - **IMPORTANT REMINDER: -DO NOT- install ANYthing into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.**
 
-- **Download Diabolist VR from the Wabbajack VR drop down section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the DVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
+- **Download Legend of SkyrimVR from the Wabbajack VR drop down section to begin the install process, once that initial download is done a new Wabbajack window will pop up, on the bottom right select the Install Location ( 3 Dots ... ) select the LoSVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
-- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Diabolist VR 2.9.9d.wabbajack.manifest.json](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Diabolist VR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
+- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [](https://drive.google.com/drive/folders/18DD_fVfsnnzwJPg5DvIKzJaWczmEnfUG?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes, simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
 - **After install is finished, close the Wabbajack window & proceed to the DVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.**
 #
@@ -197,14 +200,14 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [5]
 ## MCM Recorder Auto-Load Settings
-#### Start DVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in DVR, It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings for DVR. These Auto-Load settings are Highly Recommended and some are CRITICAL for the best DVR experience. This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.
+#### Start LoSVR through SKSE on the top right section of ModOrganizer, once you finish creating a new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in LoSVR, It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings for DVR. These Auto-Load settings are Highly Recommended and some are CRITICAL for the best DVR experience. This process will give users a notification if they try to interrupt and it will warn them to let it finish, when it's done loading you will be notified.
 ![Finished DVR MCM Setup2](https://user-images.githubusercontent.com/78007822/156894808-f57a4461-6c00-4692-9be7-a5034f7ddf26.png)
 ![Finished DVR MCM Setup3](https://user-images.githubusercontent.com/78007822/156894810-ed5bf4f2-f158-4fe5-91e6-84b5fb4db75b.png)
 #### The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 #
 [5a]
 ## Fine-Tuned Challenge
-#### DVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
+#### LoSVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod, because the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5b]
@@ -225,7 +228,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [7]
 # TAA On or Off
-#### TAA makes the distant image in VR have less jaggies (shimmer), and it's turned ON by default with DVR, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, if you don't want TAA, then simply disable it via the options in game when you are playing, additionally, it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and set bTAAWater = 0, otherwise you may see visual anomalies with water.
+#### TAA makes the distant image in VR have less jaggies (shimmer), and it's turned ON by default with LoSVR, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, if you don't want TAA, then simply disable it via the options in game when you are playing, additionally, it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and set bTAAWater = 0, otherwise you may see visual anomalies with water.
 #
 [8]
 # NVIDIA Settings
@@ -235,20 +238,20 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [9]
 # SkyrimVR and SkyrimPrefs ini
-#### If you want to reset your Diabolist VR .ini files back to install defaults: [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘DVR\profiles\Diabolist VR’ folder, also make sure to grab the Skyrim.ini file and place it inside your root SkyrimVR folder.
+#### If you want to reset your Legend of SkyrimVR .ini files back to install defaults: [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1HZ2Tgr3YjiP1zxBMwpN3OusSq4kTHT5n?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘LoSVR\profiles\Legend of SkyrimVR’ folder, also make sure to grab the Skyrim.ini file and place it inside your root SkyrimVR folder.
 #
 [10]
-# DO NOT SORT DVR WITH LOOT
-#### DVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. DVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
+# DO NOT SORT LoSVR WITH LOOT
+#### LoSVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. LoSVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/147396679-c555b0da-7da1-446c-9b08-50529a50b561.png)
 -
 [11]
 # INSTALL IS COMPLETE 
  - ### You’re Ready to Play! 
- - ### Please post on [DVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
-# Thanks for downloading Diabolist VR! 
+ - ### Please post on [DVR / LoSVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
+# Thanks for downloading Legend of SkyrimVR! 
 ### ...but most importantly...
-# Have fun monster hunting & loot hoarding!
-![DVR Logo Final Black Short Small 420x](https://user-images.githubusercontent.com/78007822/142841451-46e00818-6d9f-43e8-8ed8-7bc61bdec1dc.png)
+# Have Fun!!
+![LoS VR Avatar Icon](https://user-images.githubusercontent.com/78007822/156916243-c7566321-64c2-4945-8f43-8254fcb2e72e.png)
 
-#### - Latest DVR Guide Update, 03/05/2022
+#### - Latest LoSVR Guide Update, 03/05/2022
