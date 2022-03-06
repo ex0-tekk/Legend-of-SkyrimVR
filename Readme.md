@@ -55,7 +55,7 @@
  - **Randomly Enchanted Hylian Loot.**
  - **Princess Zelda Follower and Her Attire.**
  - **A Hyrule Castle Player Home and the Iron Knuckle Follower**
- - **Discover Unique Monsters Alongside Old and New Zelda Creatures.**
+ - **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
  - **Legend of Zelda Music Intro and a Full In-Game Zelda Music Overhaul.**
  - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover**
  - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
