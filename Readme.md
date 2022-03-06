@@ -44,36 +44,31 @@
 #
 [1]
 ## INTRODUCTION
-
-### Diabolist VR is a high fantasy theme-based mod list that pays homage to the hack-n-slash loot-hoarding ARPG of the late 90s by adding 8 Diablo inspired mods and so much more, this includes:
+![LoS VR Avatar Icon 1080](https://user-images.githubusercontent.com/78007822/156913969-0a6abc50-050d-462e-a7bb-2083b720f9ef.png)
+### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 12 Zelda inspired mods and so much more, this includes:
  
- - **A custom flame Diablo intro.**
- - **Solarion Spear intro replacer.**
- - **Authentic in-game Diablo font.**
- - **Intro and in-game music overhaul.**
- - **Gauntlet mouse cursor from Diablo II.**
- - **A classicly generous 3 tier loot system.**
- - **A dual town portal spell called 'Voidgate'.**
- - **The Horadric Crafting Cube from Diablo II.**
- - **The female Amazon from Diablo II visually improved over the LE version.**
- - **The Imperius Solarion Spear and Tyrael Armor from Diablo III, these can only be crafted.**
- - **Hundreds of unique monsters with more aggro range, enhanced combat abilities and increased population.**
+ - **A custom Tri-Force logo.**
+ - **Zelda intro and in-game music overhaul.**
+ - 
+ - **A Hylian item loot system.**
+ - **Princess Zelda Follower.**
+ - **Unique monsters alongside old and new Zelda creatures.**
  - **A sprawling multi-dungeon system called Skyrim Underground, along with 65 additional Forgotten Dungeons.**
 #
 [2]
-## RECOMMENDED SPECS FOR DVR
+## RECOMMENDED SPECS FOR LoSVR
 
-**DVR should run well on medium to high end HMD/PC configurations, I focused heavily on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.**
+**LoSVR should run well on medium to high end HMD/PC configurations, I focused heavily on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.**
 
-**Minimum Recommended Specs for DVR: 20xx graphics card (1080 should still work but it might be laggy without further performance tweaking than this install guide provides, users will need to troubleshoot these issues on their own), AMD Ryzen 7 or Intel 7, 16GB RAM, Solid State Drive (SSD Must be used, Do Not Use a traditional HDD).**
+**Minimum Recommended Specs for LoSVR: 20xx graphics card (1080 should still work but it might be laggy without further performance tweaking than this install guide provides, users will need to troubleshoot these issues on their own), AMD Ryzen 7 or Intel 7, 16GB RAM, Solid State Drive (SSD Must be used, Do Not Use a traditional HDD).**
 
 **This should be a good start for decent performance.**
 
-**A complete DVR install has a total size of roughly 100 GB, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.**
+**A complete LoSVR install has a total size of roughly 72 GB, it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.**
 
 **Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.**
 
-### DVR is developed and tested with this HMD and PC setup:
+### LoSVR is developed and tested with this HMD and PC setup:
 
  - **Oculus Rift S**
  - **Win 10 ver.20H2 Fully Updated**
@@ -83,26 +78,6 @@
  - **Nvidia 3090 GPU**
 #
 [3]
-## MOD LIST FEATURES
-### To save space on the in-game loot card, DVR now uses a 3 tier STAR Halgaris RPG loot system. 
-### % = Drop Rate.
-#
- - **No Star = No enchant (Vanilla) = 15%** - NOTE: _Some_ hard-coded vanilla gear and quest items still have 1 or more enchants with No Star, this cannot be changed.
- - **1 Star = 1 Enchant = 67%**
- - **2 Stars = 2 Enchants = 15%**
- - **3 Stars = 3 enchants = 3%**
-#### NOTE: There is 10 randomly enchanted item variations on all tiers, EXCEPT No Star, No Enchant (Vanilla).
-#
- - **The loot system in DVR is VERY GENEROUS, just like the Diablo series is known for, so you will often be upgrading, tossing away or selling items, Nethers Follower Framework provides a dialogue option to make your followers run to town and sell ANY gear you give them regardless of where you are or the funds available on merchants, using this feature is HIGHLY RECOMMENDED as you continue gathering loot if you don't always want to travel and sell. Making income in DVR should not be an issue regardless of you and your followers selling items, due to the boss chests and dragons providing plenty of gold, additionally, in an attempt to balance bartering and trade, I have added an increase in overall cost for buying items and subsequently less income for selling all items, along with other barter tweaks such as, increased merchant gold, increased ferry and horse carriage costs, sleeping at the inn costs more, etc.**
-
-- **Loot Boxes are placed at merchants across 7 different cities, they are easy to find and they *can be* addictive, but loot keys are not cheap.**
-
-- **This mod list is a loot hoarders dream, and with that in mind, every new character you create starts with a 10,000lb carry weight ring.**
-
-- **Transmuting lower quality items into a higher quality ones, or convert items of one type into another with the [Horadric Cube from Diablo II](https://www.nexusmods.com/skyrim/mods/22806/?tab=description) please read the authors nexus page linked here to see more details on how to do this.**
-
-- **Voidgate is a spell every player starts with in DVR, you simply access it from your magic menu and cast a dual portal to step into, for example: you're dungeon crawling and you want to goto town to sell or buy... ok, so you cast the spell and a blue swirling portal opens, now you open your map and goto your desired location (DVR lets you teleport out from ANY dungeon via your map), once you're finished, you simply cast the spell again and a 2nd portal opens, walk into the swirling portal, this returns you back to the spot where you were previously adventuring.**
-
 - **Fine-Tuned Challenge mod difficulty settings replace the traditional Skyrim difficulty settings, they flow in both directions for hard-mode, easy-mode, and everything in between... with a few *optional* cheat mods available for casual steam-rolling fun. Look for *QoL Enhancements, Difficulty Options, Cheats & Level Lists* on the left side of your MO2 window, you will find these cheat mods placed throughout this category, right click them and 'visit on nexus' for more info.**
 
 - **All nonsense weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for some amazing enchantment combinations, you will likely need to crank the difficulty up as you continue to level, before long you will become quite powerful by coming across 2 star & 3 star items, and by also enchanting your own gear.**
@@ -111,11 +86,7 @@
 
 - **VR controller functionality, physics, visuals, performance and LOD are all enhanced & improved through various tools, mods & .ini settings.**
 #
- - **MILD NSFW WARNING: (18+) This mod list uses CBBE Physics but with under-armor coverage for females, it also features bikini armor for you to craft, this all can be changed in CBBE BodySlide tool from the MO2 dropdown menu if you want no panties and no bras in your playthrough, please post in the Discord DVR Support Chat room for help with this CBBE recompile if needed.**
-#
-- **DVR comes with a new game-changing mod called [The Paarthurnax Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/51711), aside from this there are no other storyline content overhauls, while being a large yet surprisingly straight-forward mod list, DVR still hosts plenty of noticable changes, but the Dragonborn storyline and Civil War are still the focal point and on par with vanilla.**
-
-- **Diabolist VR is a high performance, simple to setup, Diablo themed VR modlist... based on dungeon crawling, monster hunting and loot hoarding.**
+- **LoSVR is a high performance, simple to setup, Zelda themed VR modlist.**
 #
 [4]
 ## GAMEPLAY PREP
@@ -134,7 +105,7 @@
  - **After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, and also to adjust the game's vanilla settings.**
  
  - **I have provided screenshots of the recommended SkyrimVR settings below, along with highly recommended MCM settings.**
-#### Refer to these screenshots when you first load the game and after Diabolist VR is installed ... as I will Not be explaining these settings in further detail aside from the screenshots i have added, most of this is self-explanatory and also based on your preference and PC performance.
+#### Refer to these screenshots when you first load the game and after LoSVR is installed ... as I will Not be explaining these settings in further detail aside from the screenshots i have added, most of this is self-explanatory and also based on your preference and PC performance.
 
 ![VR Performance](https://user-images.githubusercontent.com/78007822/139745143-a3161f8d-8d2e-47ee-9644-e4aec59ac37a.png)
 ![VR Performance 2](https://user-images.githubusercontent.com/78007822/139745160-74e1f1c6-192e-4812-becd-06e4bccbaa50.png)
