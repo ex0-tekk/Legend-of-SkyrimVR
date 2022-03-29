@@ -254,4 +254,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have Fun!!
 ![LoS VR Avatar Icon](https://user-images.githubusercontent.com/78007822/156916243-c7566321-64c2-4945-8f43-8254fcb2e72e.png)
 
-#### - Latest LoSVR Guide Update, 03/05/2022
+#### - Latest LoSVR Guide Update, 03/29/2022
