@@ -243,7 +243,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 [10]
 # DO NOT SORT LoSVR WITH LOOT
 #### LoSVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. LoSVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
-![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/147396679-c555b0da-7da1-446c-9b08-50529a50b561.png)
+![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/160706094-faf41840-8e55-4713-8f18-d28c18482f2c.png)
 -
 [11]
 # INSTALL IS COMPLETE 
