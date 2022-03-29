@@ -252,6 +252,6 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Thanks for downloading Legend of SkyrimVR! 
 ### ...but most importantly...
 # Have Fun!!
-![LoS VR Avatar Icon](https://user-images.githubusercontent.com/78007822/156916243-c7566321-64c2-4945-8f43-8254fcb2e72e.png)
+![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
 #### - Latest LoSVR Guide Update, 03/29/2022
