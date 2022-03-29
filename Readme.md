@@ -4,43 +4,41 @@
 
 - **[2] [Recommended Specs for LoSVR](#recommended-specs-for-losvr)**
 
-- **[3] [Mod List Features](#mod-list-features)**
+- **[3] [Gameplay Prep](#gameplay-prep)**
 
-- **[4] [Gameplay Prep](#gameplay-prep)**
-
-    - [4a] [SkyrimVR Install](#skyrimvr-install)
+    - [3a] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4b] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
+    - [3b] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
 
-    - [4c] [Windows Paging File Size](#windows-paging-file-size)
+    - [3c] [Windows Paging File Size](#windows-paging-file-size)
 
-    - [4d] [SkyrimVR Install](#skyrimvr-install)
+    - [3d] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4e] [Wabbajack and LoSVR Install](#wabbajack-and-losvr-install)
+    - [3e] [Wabbajack and LoSVR Install](#wabbajack-and-losvr-install)
     
-    - [4f] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
+    - [3f] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
-    - [4g] [CPU Threads](#cpu-threads)
+    - [3g] [CPU Threads](#cpu-threads)
     
-- **[5] [MCM Recorder Auto-Load Settings](#mcm-recorder-auto-load-settings)**
+- **[4] [MCM Recorder Auto-Load Settings](#mcm-recorder-auto-load-settings)**
     
-    - [5a] [Fine-Tuned Challenge](#fine-tuned-challenge)
+    - [4a] [Fine-Tuned Challenge](#fine-tuned-challenge)
     
-    - [5b] [SiC and Mihail Monsters](#sic-and-mihail-monsters)
+    - [4b] [SiC and Mihail Monsters](#sic-and-mihail-monsters)
 
-    - [5c] [Nethers Follower Framework](#nethers-follower-framework)
+    - [4c] [Nethers Follower Framework](#nethers-follower-framework)
 
-- **[6] [The Sharper Eye](#the-sharper-eye)**
+- **[5] [The Sharper Eye](#the-sharper-eye)**
 
-- **[7] [TAA On or Off](#taa-on-or-off)**
+- **[6] [TAA On or Off](#taa-on-or-off)**
 
-- **[8] [Nvidia Settings](#nvidia-settings)**
+- **[7] [Nvidia Settings](#nvidia-settings)**
 
-- **[9] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
+- **[8] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
 
-- **[10] [DO NOT SORT LoSVR WITH LOOT](#do-not-sort-losvr-with-loot)**
+- **[9] [DO NOT SORT LoSVR WITH LOOT](#do-not-sort-losvr-with-loot)**
 
-- **[11] [INSTALL IS COMPLETE](#install-is-complete)**
+- **[10] [INSTALL IS COMPLETE](#install-is-complete)**
 #
 [1]
 ## INTRODUCTION
