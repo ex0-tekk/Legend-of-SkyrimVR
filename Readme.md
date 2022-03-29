@@ -185,7 +185,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 [3g]
 ## CPU Threads
 
-**iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [DVR / LoSVR Discord](https://discord.gg/HuqU54gPcv)**
+**iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [LoSVR / DVR Discord](https://discord.gg/wWF4Nb6JuB)**
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
 [4]
@@ -238,7 +238,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 [10]
 # INSTALL IS COMPLETE 
  - ### You’re Ready to Play! 
- - ### Please post on [DVR / LoSVR Discord](https://discord.com/invite/HuqU54gPcv) if you need modlist support. 
+ - ### Please post on [LoSVR / DVR Discord](https://discord.gg/wWF4Nb6JuB) if you need modlist support. 
 # Thanks for downloading Legend of SkyrimVR! 
 ### ...but most importantly...
 # Have Fun!!
