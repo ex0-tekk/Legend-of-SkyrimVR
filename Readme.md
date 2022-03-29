@@ -16,7 +16,7 @@
 
     - [4d] [SkyrimVR Install](#skyrimvr-install)
     
-    - [4e] [Wabbajack and LoSVR Install](#wabbajack-and-dvr-install)
+    - [4e] [Wabbajack and LoSVR Install](#wabbajack-and-losvr-install)
     
     - [4f] [SkyrimVR ini Tweaker](#skyrimvr-ini-tweaker)
     
@@ -26,7 +26,7 @@
     
     - [5a] [Fine-Tuned Challenge](#fine-tuned-challenge)
     
-    - [5b] [Mihail Monsters and Skyrim Immersive Creatures](#mihail-monsters-and-skyrim-immersive-creatures)
+    - [5b] [SiC and Mihail Monsters](#sic-and-mihail-monsters)
 
     - [5c] [Nethers Follower Framework](#nethers-follower-framework)
 
@@ -38,7 +38,7 @@
 
 - **[9] [SkyrimVR and SkyrimPrefs ini](#skyrimvr-and-skyrimprefs-ini)**
 
-- **[10] [DO NOT SORT DVR WITH LOOT](#do-not-sort-dvr-with-loot)**
+- **[10] [DO NOT SORT LoSVR WITH LOOT](#do-not-sort-losvr-with-loot)**
 
 - **[11] [INSTALL IS COMPLETE](#install-is-complete)**
 #
@@ -211,7 +211,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [5b]
-## SiC-Mihail Monsters
+## SiC and Mihail Monsters
 #### LoS VR uses several monster mods at its core: Hosting over 80 Mihail Monsters, along with Skyrim Immersive Creatures(SiC), additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
 ### NOTE: Adept difficulty is CRITICAL for ALL creature mods in DVR to work with Fine-Tuned Challenge.
 #
