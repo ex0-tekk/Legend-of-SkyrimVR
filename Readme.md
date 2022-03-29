@@ -42,7 +42,7 @@
 #
 [1]
 ## INTRODUCTION
-![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160715265-dac5eb9c-dd6d-493c-bd03-e70a834fb6d5.png)
+![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160715469-71ccb30e-29f1-4d09-bd1d-2882a1a3d19a.png)
 ### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding several Zelda inspired mods and so much more, this includes:
 
  - **Green Rupees**
@@ -202,8 +202,8 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [4b]
 ## SiC and Mihail Monsters
-#### LoSVR uses several monster mods at its core: Hosting over 50 Mihail Monsters repaired and enhanced with xEdit and CAO, along with Skyrim Immersive Creatures(SiC), additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
-### NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge.
+#### LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO, and to optimize and minimize any 4k textures to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC). Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
+### NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge, otherwise you will only be using vanilla difficulty settings.
 #
 [4c]
 ## Nethers Follower Framework
