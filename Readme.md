@@ -150,7 +150,7 @@
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 450+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
-- **Download the LoSVR 1.0.0 Wabbajack file.**
+- **Download the current LoSVR Wabbajack file.**
 
 - **While it's downloading, make a folder on the SSD drive you'll be using and label it LoSVR.**
 
