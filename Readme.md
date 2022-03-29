@@ -202,7 +202,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 -
 [4b]
 ## SiC and Mihail Monsters
-#### LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO, and to optimize and minimize any 4k textures to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC). Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
+#### LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO, and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC). Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
 ### NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge, otherwise you will only be using vanilla difficulty settings.
 #
 [4c]
