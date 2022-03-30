@@ -54,8 +54,8 @@
  - **Princess Zelda Follower and Her Attire.**
  - **A Hyrule Castle Player Home and the Iron Knuckle Follower**
  - **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
- - **Legend of Zelda Music Intro and a Full In-Game Zelda Music Overhaul.**
- - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover**
+ - **Legend of Zelda Music Intro with Full In-Game Zelda Music/Sound FX Overhaul.**
+ - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
  - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
  - **A Sprawling Multi-Dungeon System Called Skyrim Underground, with 65 Additional Forgotten Dungeons.**
 #
