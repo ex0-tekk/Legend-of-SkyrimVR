@@ -42,7 +42,7 @@
 #
 [1]
 ## INTRODUCTION
-![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160715469-71ccb30e-29f1-4d09-bd1d-2882a1a3d19a.png)
+![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160729993-f8922d2a-b9b5-45d2-8121-fb03ab03e8b9.png)
 ### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding several Zelda inspired mods and so much more, this includes:
 
  - **Green Rupees**
