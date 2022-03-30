@@ -115,7 +115,7 @@
 ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
 ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
 ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
-### **These screenshots above show a Diabolist VR folder, simply use this same method to direct the exclusions to your Legend of SkyrimVR folder.**
+### **This screenshot above shows a Diabolist VR folder, simply use this same method to direct the exclusions to your Legend of SkyrimVR folder.**
 #
  - **It is also CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.**
  - **Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.**
