@@ -59,8 +59,6 @@
  - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
  - **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated.**
  - **A Sprawling Multi-Dungeon System Called Skyrim Underground, with 65 Additional Forgotten Dungeons.**
- - **VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods and .ini settings.**
- - **All ineffective or useless weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for better enchantment combinations overall, you will likely need to increase the difficulty up as you continue to level.**
 #
 [2]
 ## RECOMMENDED SPECS FOR LoSVR
@@ -70,6 +68,8 @@
 **Minimum Recommended Specs for LoSVR: 20xx graphics card (1080 should still work but it might be laggy without further performance tweaking than this install guide provides, users will need to troubleshoot these issues on their own), AMD Ryzen 7 or Intel 7, 16GB RAM, Solid State Drive (SSD Must be used, Do Not Use a traditional HDD).**
 
 **This should be a good start for decent performance.**
+
+**Additionally, VR controller functionality, physics, visuals and performance are all enhanced & improved through various tools, mods and .ini settings.**
 
 **The initial wabbajack install file size is 3.60 GB with a complete LoSVR install size of roughly 78 GB ( 82 GB grand total ), it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.**
 
