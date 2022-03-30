@@ -55,7 +55,7 @@
  - **A Hyrule Castle Player Home and the Iron Knuckle Follower**
  - **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
  - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
- - **Legend of Zelda Music Intro with Full In-Game Zelda Music/Sound FX Overhaul.**
+ - **Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.**
  - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
  - **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated.**
  - **A Sprawling Multi-Dungeon System Called Skyrim Underground, with 65 Additional Forgotten Dungeons.**
@@ -251,4 +251,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have Fun!!
 ![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
-#### - Latest LoSVR Guide Update, 03/29/2022
+#### - Latest LoSVR Guide Update, 03/30/2022
