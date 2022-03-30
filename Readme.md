@@ -155,7 +155,7 @@
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 450+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
 
 - **First, download and install the current Wabbajack software linked [HERE](https://github.com/wabbajack-tools/wabbajack/releases)**
-- **This Wabbajack software is a hard requirment for LoSVR to install and work properly.**
+- **This Wabbajack software is a hard requirement for LoSVR to install and work properly.**
 
 - **Next, download the current Legend of SkyrimVR install file linked [HERE](https://drive.google.com/drive/folders/1R1UmyClHVED0ivP-J0HBWvv0oqpN9aDR?usp=sharing).**
 
