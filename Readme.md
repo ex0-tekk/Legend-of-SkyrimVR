@@ -69,7 +69,7 @@
 
 **This should be a good start for decent performance.**
 
-**Additionally, VR controller functionality, physics, visuals and performance are all enhanced & improved through various tools, mods and .ini settings.**
+**Additionally, VR controller functionality and physics are all enhanced or improved through various tools, mods and .ini settings.**
 
 **The initial wabbajack install file size is 3.60 GB with a complete LoSVR install size of roughly 78 GB ( 82 GB grand total ), it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.**
 
