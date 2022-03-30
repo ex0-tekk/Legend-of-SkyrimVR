@@ -57,7 +57,10 @@
  - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
  - **Legend of Zelda Music Intro with Full In-Game Zelda Music/Sound FX Overhaul.**
  - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
+ - **Most of the 'must-have' popular VR Quality of Life mods have been installed and fully updated.**
  - **A Sprawling Multi-Dungeon System Called Skyrim Underground, with 65 Additional Forgotten Dungeons.**
+ - **VR controller functionality, physics, visuals, performance are all enhanced & improved through various tools, mods and .ini settings.**
+ - **All ineffective or useless weapon and armor enchantments from the Summermyst Enchantments mod have been removed, this makes for better enchantment combinations overall, you will likely need to increase the difficulty up as you continue to level.**
 #
 [2]
 ## RECOMMENDED SPECS FOR LoSVR
