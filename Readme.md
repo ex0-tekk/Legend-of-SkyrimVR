@@ -43,7 +43,7 @@
 [1]
 ## INTRODUCTION
 ![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160729993-f8922d2a-b9b5-45d2-8121-fb03ab03e8b9.png)
-### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding over 10 Zelda inspired mods and so much more, this includes:
+### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding over 10 Zelda inspired mods and so much more, this includes but not limited too:
 
  - **Green Rupees**
  - **HookShot Claw**
@@ -57,7 +57,6 @@
  - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
  - **Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.**
  - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
- - **A Sprawling Multi-Dungeon System Called Skyrim Underground, with 65 Additional Forgotten Dungeons.**
 #
 [2]
 ## RECOMMENDED SPECS FOR LoSVR
