@@ -52,7 +52,7 @@
  - **A Custom Tri-Force Intro Logo.**
  - **Randomly Enchanted Hylian Loot.**
  - **Princess Zelda Follower and Her Attire.**
- - **A Hyrule Castle Player Home with the Iron Knuckle Follower.
+ - **A Hyrule Castle Player Home with the Iron Knuckle Follower.**
  - **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
  - **A Subtle Mix of Vanilla and High Performance Cartoon Stylized Textures.**
  - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
