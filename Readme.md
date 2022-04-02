@@ -24,7 +24,7 @@
     
     - [4a] [Fine-Tuned Challenge](#fine-tuned-challenge)
     
-    - [4b] [SiC and Mihail Monsters](#sic-and-mihail-monsters)
+    - [4b] [LoSVR Monster Population](#losvr-monster-population)
 
     - [4c] [Nethers Follower Framework](#nethers-follower-framework)
 
@@ -45,18 +45,19 @@
 ![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160729993-f8922d2a-b9b5-45d2-8121-fb03ab03e8b9.png)
 ### Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 12 Zelda inspired mods and so much more, this includes but not limited too:
 
- - **Green Rupees**
- - **HookShot Claw**
- - **Epona, Links Horse**
- - **Hylian Race - Play as Link**
+ - **Green Rupees.**
+ - **Hookshot Claw.**
+ - **Epona, Links Horse.**
+ - **Hylian Race - Play as Link.**
  - **A Custom Tri-Force Intro Logo.**
  - **Randomly Enchanted Hylian Loot.**
  - **Princess Zelda Follower and Her Attire.**
- - **A Hyrule Castle Player Home and the Iron Knuckle Follower**
+ - **A Hyrule Castle Player Home with the Iron Knuckle Follower.
  - **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
+ - **A Subtle Mix of Vanilla and High Performance Cartoon Stylized Textures.**
  - **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
  - **Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.**
- - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players**
+ - **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players.**
 #
 [2]
 ## RECOMMENDED SPECS FOR LoSVR
@@ -206,8 +207,8 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 -
 [4b]
-## SiC and Mihail Monsters
-#### LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO, and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC). Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
+## LoSVR Monster Population
+#### LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO, and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC) & Relics of Hyrule (RoH) Monsters. Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.
 ### NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge, otherwise you will only be using vanilla difficulty settings.
 #
 [4c]
