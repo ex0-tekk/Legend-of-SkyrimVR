@@ -93,7 +93,7 @@
 #
 [3a]
 ### SkyrimVR Install
- - **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play, It is also CRITICAL to have your SkyrimVR game installed in a folder outside of  C:/Program Files  and  C:/Program Files (x86) <- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+ - **It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play, It is also CRITICAL to have your SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86) <- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
  
  - **Steam does not easily allow for new install folders, simply follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
  
