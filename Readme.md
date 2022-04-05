@@ -7,12 +7,12 @@
 - **[3] [Gameplay Prep](#gameplay-prep)**
 
     - [3a] [SkyrimVR Install](#skyrimvr-install)
+
+    - [3b] [Visual C Runtime Installs](#visual-c-runtime-installs)
     
-    - [3b] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
+    - [3c] [Windows Antivirus and Firewall Settings](#windows-antivirus-and-firewall-settings)
 
-    - [3c] [Windows Paging File Size](#windows-paging-file-size)
-
-    - [3d] [SkyrimVR Install](#skyrimvr-install)
+    - [3d] [Windows Paging File Size](#windows-paging-file-size)
     
     - [3e] [Wabbajack and LoSVR Install](#wabbajack-and-losvr-install)
     
@@ -109,6 +109,10 @@
 ![VR General Settings 2 Smaller](https://user-images.githubusercontent.com/78007822/139744851-985379d3-d4f7-469b-8e1c-30ededa387ae.png)
 ## When you are finished adjusting these settings above, simply close SkyrimVR and continue following this install guide.
 [3b]
+### Visual C Runtime Installs
+ - **It's CRITICAL to install the All-In-One [Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description)** mod on the Nexus, simply install the AIO package to cover all Visual C updates.
+#
+[3c]
 ### Windows Antivirus and Firewall Settings
  - **It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (LoSVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)**
 **Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.**
@@ -138,7 +142,7 @@
  - ### **Just name this to whatever you want, or use what I have put in the screenshot provided, then click finish.**
 ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 ## **NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.**
-[3c]
+[3d]
 ### Windows Paging File Size
  - **It is CRITICAL to set your pagefile size to 20GB (20,000mb).**
  - **20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB, but this is due to having 32GB of physical Ram.**
@@ -148,7 +152,7 @@
 #
 ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 #
-[3d]
+[3e]
 ## Wabbajack and LoSVR Install
 
 ### A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY.😵
@@ -168,7 +172,7 @@
 
 - **After install is finished, close the Wabbajack window & proceed to your LoSVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.**
 #
-[3e]
+[3f]
 ## SkyrimVR ini Tweaker
 
 **There are a few .ini settings you *should* be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.**
@@ -250,4 +254,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have Fun!!
 ![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
-#### - Latest LoSVR Guide Update, 04/02/2022
+#### - Latest LoSVR Guide Update, 04/05/2022
