@@ -97,7 +97,8 @@
  
  - **Steam does not easily allow for new install folders, simply follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.**
  
- - **After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game.**
+ - **After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.**
+#
 [3b]
 ### Visual C Runtime Installs
  - **It's CRITICAL to install the All-In-One [Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description)** mod on the Nexus, simply install the AIO package to cover all Visual C updates.
