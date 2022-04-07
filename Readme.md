@@ -70,7 +70,7 @@
 
 **Additionally, VR controller functionality and physics are all enhanced or improved through various tools, mods and .ini settings.**
 
-**The initial wabbajack install file size is 3.5 GB with a complete LoSVR install size of roughly 76 GB (roughly 80 GB total), it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.**
+**The initial wabbajack install file size is around 3.5 GB with a complete LoSVR install size of 76 GB (roughly 80 GB total), it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.**
 
 **Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.**
 
