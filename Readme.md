@@ -158,7 +158,7 @@
 
 - **Open your Legend of SkyrimVR wabbajack file and on the bottom right select the Install Location ( 3 Dots ... ) select the LoSVR folder you created, the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.**
 
-- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Legend of SkyrimVR 1.0.0.wabbajack.manifest.json](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
+- **Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [Legend of SkyrimVR 1.0.1.wabbajack.manifest.json](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [Wabbajack Manifest Website](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.**
 
 - **After install is finished, close the Wabbajack window & proceed to your LoSVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.**
 #
@@ -184,7 +184,6 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #
 [3g]
 ## CPU Threads
-
 **iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [LoSVR / DVR Discord](https://discord.gg/wWF4Nb6JuB)**
 ### **You can close the SkyrimVR ini Tweaker now.**
 #
@@ -210,7 +209,7 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with. 
 #### Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges.
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
-
+-
 [5]
 # The Sharper Eye
 #### With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen.
@@ -225,7 +224,6 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 #### The SkyrimVR specific nVidia Control Panel settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 ![SkyrimVR nVidia Settings 1 smaller](https://user-images.githubusercontent.com/78007822/162099592-df80d056-3604-4779-847d-ea3a36b6f6b8.png)
 ![SkyrimVR nVidia Settings 2 smaller](https://user-images.githubusercontent.com/78007822/162099809-bbbe5c6d-2871-4c45-a337-419a94ce8f6b.png)
-
 #
 [8]
 # SkyrimVR and SkyrimPrefs ini
@@ -245,4 +243,4 @@ Once it’s open, click on this icon. ![Skyrim ini Tweaker Small](https://user-i
 # Have Fun!!
 ![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
-#### - Latest LoSVR Guide Update, 04/05/2022
+#### - Latest LoSVR Guide Update, 04/07/2022
