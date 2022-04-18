@@ -48,8 +48,9 @@
  - **Green Rupees.**
  - **Hookshot Claw.**
  - **Epona, Links Horse.**
- - **The Abandoned Deku Tree**
+ - **The Abandoned Deku Tree.**
  - **Hylian Race - Play as Link.**
+ - **The Abandoned Deku Tree.**
  - **A Custom Tri-Force Intro Logo.**
  - **Randomly Enchanted Hylian Loot.**
  - **Princess Zelda Follower and Her Attire.**
