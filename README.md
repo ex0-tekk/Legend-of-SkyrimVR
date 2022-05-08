@@ -253,12 +253,11 @@ Having personalized .ini tweaks will help overall visuals based on SuperSampling
 Example: using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.
 
 ```ini
-iHudMenuTextureSize = 2172
-
+iHudMenuTextureSize = 2172 
 iProjectedMenuTextureSize = 2172
 ```
 
-These 2 sets of numbers above will always equal the largest number of your headsets resolution & they _should_ be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.
+These 2 sets of numbers above will **always equal the largest number of your headsets resolution** & they **_should_** be adjusted with this ini configuration tool to match your VR headset for best in-game menu texture size.
 
 ---
 
@@ -268,7 +267,6 @@ These 2 sets of numbers above will always equal the largest number of your heads
 
 ```ini
 iNumHWThreads
-
 iNumThreads
 ```
 
