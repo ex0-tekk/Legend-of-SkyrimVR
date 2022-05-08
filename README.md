@@ -266,11 +266,12 @@ These 2 sets of numbers above will **always equal the largest number of your hea
 ---
 
 ```ini
-iNumHWThreads
-iNumThreads
+iNumHWThreads = ?
+
+iNumThreads = ?
 ```
 
-This represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB)
+These 2 ini settings above represent how many threads your CPU would be uusing, it’s set to 16 threads in the skyrimvr.ini by default so **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB)
 
 ### **You can close the SkyrimVR ini Tweaker now**
 
@@ -297,7 +298,7 @@ LoSVR uses Adept difficulty by default, this is **CRITICAL** to utilize the Fine
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 
-- These are the **DEFAULT settings** that this Difficulty mod comes with, as shown above.
+- These are the **DEFAULT settings** that Fine-Tuned Challenge comes with.
 
 ---
 
