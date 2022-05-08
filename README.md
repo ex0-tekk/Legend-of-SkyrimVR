@@ -2,13 +2,15 @@
 
 ![LoSVR Image](Legend%20of%20SkyrimVR%201080%20Logo.webp)
 
-## Index
+## **LoSVR Install Index**
 
-- [1 Introduction](#1-introduction)
+- **[1 Introduction](#1-introduction)**
 
-- [2 Recommended Specs for LoSVR](#2-recommended-specs-for-losvr)
+- **[2 Recommended Specs for LoSVR](#2-recommended-specs-for-losvr)**
 
-- [3 Gameplay Prep](#3-gameplay-prep)
+---
+
+- **[3 Gameplay Prep](#3-gameplay-prep)**
 
   - [3a SkyrimVR Install](#3a-skyrimvr-install)
 
@@ -26,7 +28,7 @@
 
 ---
   
-- [4 MCM Recorder Auto-Load Settings](#4-mcm-recorder-auto-load-settings)
+- **[4 MCM Recorder Auto-Load Settings]**(#4-mcm-recorder-auto-load-settings)
 
   - [4a Fine-Tuned Challenge](#4a-fine-tuned-challenge)
   
@@ -36,19 +38,23 @@
 
 ---
 
-- [5 The Sharper Eye](#5-the-sharper-eye)
+- **[5 The Sharper Eye](#5-the-sharper-eye)**
 
-- [6 TAA On or Off](#6-taa-on-or-off)
+- **[6 TAA On or Off](#6-taa-on-or-off)**
 
-- [7 Nvidia Settings](#7-nvidia-settings)
+- **[7 Nvidia Settings](#7-nvidia-settings)**
 
-- [8 SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)
+- **[8 SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)**
 
-- [9 DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)
+- **[9 DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)**
 
-- [10 INSTALL IS COMPLETE](#10-install-is-complete)
+- **[10 INSTALL IS COMPLETE](#10-install-is-complete)**
 
-## 1 - INTRODUCTION
+---
+
+## **1 - Intoduction & Modlist Features**
+
+---
 
 **Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
 
