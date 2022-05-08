@@ -129,7 +129,7 @@ PLEASE pay attention to these words throughout the rest of this guide.
 
 It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play, It is also CRITICAL to have your SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86) <- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
 
-- Steam does not easily allow for new install folders, simply follow [This Easy Guide](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
+- Steam does not easily allow for new install folders, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
 
 - After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.
 
@@ -139,7 +139,7 @@ It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to pla
 
 ---
 
-- It's CRITICAL to install the All-In-One [Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, simply install the AIO package to cover all Visual C updates.
+- It's CRITICAL to install the All-In-One [**Visual C Runtime Packages**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [**Binaural 3D Surround Sound for SkrimVR**](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, simply install the AIO package to cover all Visual C updates.
 
 ---
 
@@ -156,39 +156,47 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
   ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
   ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 
-This screenshot above shows a Diabolist VR folder, simply use this same method to direct the exclusions to your Legend of SkyrimVR folder.
+This screenshot above shows a Diabolist VR folder, **use this same method to direct the exclusions to your Legend of SkyrimVR folder.**
 
-- It is also **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.
-- Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.
+- It is also **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows firewall settings, to **prevent random CTD produced by Bethesda server pings.**
+  
+- Open your windows search function and type in Firewall, then click on **Windows Defender Firewall with Advanced Settings.**
 
   ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
-### When the Windows firewall options pop up, follow these steps below
+   When the Windows firewall options pop up, **follow these steps below**
 
-```ini
-1. Click Inbound Rules
-1. Click New Rule
-1. Click Program, then Next.
-```
-
+  ```ini
+  1. Click Inbound Rules
+  2. Click New Rule
+  3. Click Program, then Next.
+  ```
+  
   ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
 
-- Now direct this window to your SkyrimVR root folder and select SkyrimVR.exe
-
   ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
+  
+  ```ini
+  - Now direct this window above to your SkyrimVR root folder and select SkyrimVR.exe
+  ```
 
-- Make SURE you select BLOCK, another window will pop up with Domain, Private and Public, make sure they are all selected.
+- **Make SURE you select BLOCK**, another window will pop up with Domain, Private and Public, **make sure they are all selected**.
+
   ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
   ![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
 
-- Just name this to whatever you want, or use what I have put in the screenshot provided, then click finish.
+- Just **name this field below to whatever you want**, or use what I have put in the screenshot provided, **then click finish.**
 
   ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 
-NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
+### **CRITCAL THAT YOU REPEAT THESES EXACT SAME STEPS ABOVE FOR OUTBOUND BLOCK.**
 
-### 3D - Windows Paging File Size
+---
+
+### **3D - Windows Paging File Size**
+
+---
 
 - It is CRITICAL to set your pagefile size to 20GB (20,000mb).
 - 20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB pagefile size with 32GB of physical Ram, as I prefer the extra overhead.
@@ -206,7 +214,7 @@ NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
 
 **A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
 
-- Download and install the current Wabbajack software linked [**HERE**](https://github.com/wabbajack-tools/wabbajack/releases), 
+- Download and install the current Wabbajack software linked [**HERE**](https://github.com/wabbajack-tools/wabbajack/releases),
   **NOTE:** this Wabbajack software **is a hard requirement for LoSVR to install and work properly**.
 
 - Make a folder on the SSD drive you'll be using and label it LoSVR.
