@@ -23,6 +23,8 @@
   - [3f SkyrimVR ini Tweaker](#3f-skyrimvr-ini-tweaker)
   
   - [3g CPU Threads](#3g-cpu-threads)
+
+---
   
 - [4 MCM Recorder Auto-Load Settings](#4-mcm-recorder-auto-load-settings)
 
@@ -31,6 +33,8 @@
   - [4b LoSVR Monster Population](#4b-losvr-monster-population)
 
   - [4c Nethers Follower Framework](#4c-nethers-follower-framework)
+
+---
 
 - [5 The Sharper Eye](#5-the-sharper-eye)
 
@@ -44,7 +48,7 @@
 
 - [10 INSTALL IS COMPLETE](#10-install-is-complete)
 
-## 1 INTRODUCTION
+## 1 - INTRODUCTION
 
 Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:
 
@@ -65,7 +69,7 @@ Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to th
 
 ---
 
-## 2 RECOMMENDED SPECS FOR LoSVR
+## 2 - RECOMMENDED SPECS FOR LoSVR
 
 Legend of SkyrimVR should run well on medium to high end HMD/PC configurations, I focused heavily on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
@@ -118,16 +122,16 @@ It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to pla
 Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.
 Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.
 
-![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
-![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
-![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
+  ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
+  ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
+  ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 
 This screenshot above shows a Diabolist VR folder, simply use this same method to direct the exclusions to your Legend of SkyrimVR folder.
 
 - It is also CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound), within your windows firewall settings, to prevent random CTD produced by Bethesda server pings.
 - Open your windows search function and type in Firewall, then click on 'Windows Defender Firewall with Advanced Settings.
 
-![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
+  ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
 ### When the Windows firewall options pop up, follow these steps below
 
