@@ -190,7 +190,7 @@ This screenshot above shows a Diabolist VR folder, **use this same method to dir
 
   ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 
-### **CRITCAL THAT YOU REPEAT THESES EXACT SAME STEPS ABOVE FOR OUTBOUND BLOCK.**
+### **IT'S  CRITCAL THAT YOU REPEAT THESES EXACT SAME STEPS ABOVE FOR OUTBOUND BLOCK.**
 
 ---
 
