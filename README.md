@@ -69,7 +69,7 @@ Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to th
 
 ---
 
-## 2 - RECOMMENDED SPECS FOR LoSVR
+## **2 - RECOMMENDED SPECS FOR LoSVR**
 
 Legend of SkyrimVR should run well on medium to high end HMD/PC configurations, I focused heavily on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
@@ -94,7 +94,7 @@ LoSVR is developed and tested with this HMD and PC setup:
 
 ---
 
-## 3 GAMEPLAY PREP
+## **3 - GAMEPLAY PREP**
 
 From here forward I will be using 2 terms over and over.
 
@@ -104,7 +104,7 @@ HR is IMPORTANT, but also with flexibility towards other configurations if the u
  CR is MANDATORY, to make the game run properly, or as LoSVR was intended to run, in all aspects.
 PLEASE pay attention to these words throughout the rest of this guide.
 
-### 3a SkyrimVR Install
+### **3A - SkyrimVR Install**
 
 It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play, It is also CRITICAL to have your SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86) <- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
 
@@ -112,11 +112,11 @@ It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to pla
 
 - After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.
 
-### 3b Visual C Runtime Installs
+### 3B - Visual C Runtime Installs
 
 - It's CRITICAL to install the All-In-One [Visual C Runtime Packages](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [Binaural 3D Surround Sound for SkrimVR](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, simply install the AIO package to cover all Visual C updates.
 
-### 3c Windows Antivirus and Firewall Settings
+### 3C - Windows Antivirus and Firewall Settings
 
 - It's CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (LoSVR) to your Windows Antivirus Exclusion settings to prevent random CTD (even if you have antivirus turned off, it still background scans.)
 Go to Start > Settings > Update & Security > Windows Security > Virus & threat protection, under Virus & threat protection settings, select Manage settings, and then under Exclusions, select Add or remove exclusions.
@@ -156,7 +156,7 @@ This screenshot above shows a Diabolist VR folder, simply use this same method t
 
 NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
 
-### 3d Windows Paging File Size
+### 3D - Windows Paging File Size
 
 - It is CRITICAL to set your pagefile size to 20GB (20,000mb).
 - 20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB pagefile size with 32GB of physical Ram, as I prefer the extra overhead.
@@ -166,7 +166,7 @@ NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
 
   ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
-### 3e Wabbajack and LoSVR Install
+### 3E - Wabbajack and LoSVR Install
 
 A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.
 
@@ -185,11 +185,11 @@ A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO 
 
 - After install is finished, close the Wabbajack window & proceed to your LoSVR folder, open the Game Files Folder, then drag & drop ALL of these files into your SkyrimVR root folder, there *should* be only 1 overwrite notification for the Skyrim.ini file, this overwrite is correct, do it.
 
-### 3f SkyrimVR ini Tweaker
+### 3F - SkyrimVR ini Tweaker
 
 There are a few .ini settings you *should* be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
 
-NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later
+NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later.
 
 Look inside the LoSVR folder & open ModOrganizer.exe (2.4.4) Once it’s open, click on this icon.
 
@@ -209,7 +209,7 @@ iProjectedMenuTextureSize = 2172
 
 These 2 sets of numbers above will always equal the largest number of your headsets resolution & they *should* be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.
 
-### **3g - CPU Threads**
+### **3G - CPU Threads**
 
 iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [LoSVR / DVR Discord](https://discord.gg/wWF4Nb6JuB)
 You can close the SkyrimVR ini Tweaker now.
@@ -230,12 +230,12 @@ LoSVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tun
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 
-### 4B LoSVR Monster Population
+### **4B - LoSVR Monster Population**
 
 LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC) & Relics of Hyrule (RoH) Monsters. Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.  
 NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge, otherwise you will only be using vanilla difficulty settings.
 
-### 4C Nethers Follower Framework
+### **4C - Nethers Follower Framework**
 
 Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with.  
 Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges.
@@ -244,7 +244,7 @@ Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/6
 
 ---
 
-## 5 The Sharper Eye
+## **5 - The Sharper Eye**
 
 With SteamVR, I recommend using [The Sharper Eye](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen, also experiment with these settings if you wish, as you may get better results suited to your own preferences,  
 NOTE: if any visual screen flickering happens during this process then check your Super Sampling slider option inside the default SkyrimVR menu settings and adjust if needed... as this setting seems to also affect The Sharper Eye Mod.
@@ -253,13 +253,13 @@ NOTE: if any visual screen flickering happens during this process then check you
 
 ---
 
-## 6 TAA On or Off
+## **6 - TAA On or Off**
 
 TAA makes the distant image in VR have less jaggies (shimmer), and it's turned ON by default with LoSVR, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, if you don't want TAA, then simply disable it via the options in game when you are playing, additionally, it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and set bTAAWater = 0, otherwise you may see visual anomalies with water.
 
 ---
 
-## 7 NVIDIA Settings
+## **7 - NVIDIA Settings**
 
 The SkyrimVR specific nVidia Control Panel settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
 ![SkyrimVR nVidia Settings 1 smaller](https://user-images.githubusercontent.com/78007822/162099592-df80d056-3604-4779-847d-ea3a36b6f6b8.png)
@@ -267,13 +267,13 @@ The SkyrimVR specific nVidia Control Panel settings I have provided are for bett
 
 ---
 
-## 8 SkyrimVR and SkyrimPrefs ini
+## **8 - SkyrimVR and SkyrimPrefs ini**
 
 If you want to reset your Legend of SkyrimVR .ini files back to install defaults: [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1YX6sdGIDGVBPIkMNnNCkCNa6JZMBmhul?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘LoSVR\profiles\Legend of SkyrimVR’ folder, also make sure to grab the Skyrim.ini file and place it inside your root SkyrimVR folder.
 
 ---
 
-## 9 DO NOT SORT LoSVR WITH LOOT
+## **9 - DO NOT SORT LoSVR WITH LOOT**
 
 LoSVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. LoSVR support is EXCLUSIVE to the modlist provided, that being said, *If* you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
 
@@ -281,7 +281,7 @@ LoSVR has been manually sorted from top to bottom & using loot WILL destroy the 
 
 ---
 
-## 10 INSTALL IS COMPLETE
+## **10 - INSTALL IS COMPLETE**
 
 - You’re Ready to Play!
 - Please post on [LoSVR / DVR Discord](https://discord.gg/wWF4Nb6JuB) if you need modlist support.
