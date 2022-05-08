@@ -54,8 +54,6 @@
 
 ## **1 - Intoduction & Modlist Features**
 
----
-
 **Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
 
 - Green Rupees.
@@ -190,21 +188,21 @@ NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
 
 - While it's downloading, make a folder on the SSD drive you'll be using and label it LoSVR.
 
-- IMPORTANT REMINDER: -DO NOT- install ANYthing into your C:/Program Files or C:/Program Files (x86) folders, due to admin restrictions.
+- **IMPORTANT REMINDER: -DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to **admin restrictions**.
 
 - Open your Legend of SkyrimVR wabbajack file and on the bottom right select the **Install Location ( 3 Dots ... )**, now select the LoSVR folder you created and the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
 - Now **click the big blue arrow**, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Legend of SkyrimVR 1.0.6.wabbajack.manifest.json**](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 
-- After install is finished, **close the Wabbajack window & proceed to your LoSVR folder, then open the GameFilesFolder**, now drag & drop **ALL of these files** into your **SkyrimVR root folder**, there _should_ be only 1 overwrite notification, this is for the Skyrim.ini file and is correct, do it.
+- After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the **GameFilesFolder**, now **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
 
 ---
 
 ### **3F - SkyrimVR ini Tweaker**
 
-There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your HMD resolution and CPU threads.
+There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your VR resolution and CPU threads.
 
-NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later.
+**NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later.**
 
 Look inside the LoSVR folder & open ModOrganizer.exe (2.4.4) Once it’s open, click on this icon.
 
