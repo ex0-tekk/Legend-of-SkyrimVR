@@ -167,9 +167,9 @@ This screenshot above shows a Diabolist VR folder, **use this same method to dir
    When the Windows firewall options pop up, **follow these steps below**
 
   ```ini
-  1. Click Inbound Rules
-  2. Click New Rule
-  3. Click Program, then Next.
+  1 - Click Inbound Rules
+  2 - Click New Rule
+  3 - Click Program, then Next.
   ```
   
   ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
