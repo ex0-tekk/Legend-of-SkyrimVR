@@ -1,6 +1,6 @@
 # Legend of SkyrimVR Install Guide
 
-![Legend of SkyrimVR 668 Small Logo](https://user-images.githubusercontent.com/78007822/160729993-f8922d2a-b9b5-45d2-8121-fb03ab03e8b9.png)
+![LoSVR Image](Legend%20of%20SkyrimVR%201080%20Logo.webp)
 
 ## Index
 
