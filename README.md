@@ -135,20 +135,21 @@ This screenshot above shows a Diabolist VR folder, simply use this same method t
 - 2. Click New Rule
 - 3. Click Program, then Next.
 
-![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
+  ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
 
 - Now direct this window to your SkyrimVR root folder and select SkyrimVR.exe
 
-![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
+  ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
 
 - Make SURE you select BLOCK, another window will pop up with Domain, Private and Public, make sure they are all selected.
-![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
+  ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
-![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
+  ![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
 
 - Just name this to whatever you want, or use what I have put in the screenshot provided, then click finish.
 
-![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
+  ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
+
 NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
 
 ### 3d Windows Paging File Size
@@ -159,7 +160,7 @@ NOTE: MAKE SURE YOU REPEAT THE EXACT SAME STEPS FOR OUTBOUND BLOCK.
 - There is no need to apply this pagefile size setting to multiple hard drives.
 - Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
 
-![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
+  ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
 ### 3e Wabbajack and LoSVR Install
 
@@ -198,7 +199,7 @@ Example: using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Ocul
 
 ```ini
 iHudMenuTextureSize = 2172
-...
+
 iProjectedMenuTextureSize = 2172
 ```
 
