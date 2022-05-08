@@ -127,7 +127,7 @@ PLEASE pay attention to these words throughout the rest of this guide.
 
 ---
 
-It is CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play, It is also CRITICAL to have your SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86) <- ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.
+It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play**, It is also **CRITICAL** to have your **SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86)** <- ignore these 2 folders for the entire process of this install guide, due to possible **admin rights restrictions.**
 
 - Steam does not easily allow for new install folders, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
 
@@ -156,7 +156,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
   ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
   ![v3](https://user-images.githubusercontent.com/78007822/147438122-4d442b97-0aa9-45b7-99f6-352a612ad8a2.png)
 
-This screenshot above shows a Diabolist VR folder, **use this same method to direct the exclusions to your Legend of SkyrimVR folder.**
+- This screenshot above shows a Diabolist VR folder, **use this same method to direct the exclusions to your Legend of SkyrimVR folder.**
 
 - It is also **CRITICAL to BLOCK SkyrimVR.exe (Inbound & Outbound)**, within your windows firewall settings, to **prevent random CTD produced by Bethesda server pings.**
   
@@ -164,33 +164,30 @@ This screenshot above shows a Diabolist VR folder, **use this same method to dir
 
   ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
-   When the Windows firewall options pop up, **follow these steps below**
+### When the Windows firewall options pop up, **follow these steps below**
 
-  ```ini
-  1 - Click Inbound Rules
-  2 - Click New Rule
-  3 - Click Program, then Next.
-  ```
+- 1 - **Click Inbound Rules.**
+- 2 - **Click New Rule.**
+- 3 - **Click Program, then Next.**
   
   ![Firewall Settings 2](https://user-images.githubusercontent.com/78007822/140570706-82949ebb-a4eb-47a4-ae45-13f6f6031696.png)
 
   ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
   
-  ```ini
-  - Now direct this window above to your SkyrimVR root folder and select SkyrimVR.exe
-  ```
-
-- **Make SURE you select BLOCK**, another window will pop up with Domain, Private and Public, **make sure they are all selected**.
+- Now **direct this window above to your SkyrimVR root folder** and select **SkyrimVR.exe**
 
   ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
+- **Make SURE you select Block the connection as shown above**, then another window will pop up with **Domain, Private and Public.**
+  
+- **Enable All 3 as shown below**.
+  
   ![Firewall Settings 5](https://user-images.githubusercontent.com/78007822/140572430-5546eb0d-5fea-4ed7-8b4c-a9242217ebb2.png)
-
-- Just **name this field below to whatever you want**, or use what I have put in the screenshot provided, **then click finish.**
+- **Name this field shown below to whatever you want**, or use what I have put in the screenshot provided, **then click finish.**
 
   ![Firewall Settings 6](https://user-images.githubusercontent.com/78007822/140572798-048e221d-0f9e-43dd-a3af-9984fca91ac8.png)
 
-### **IT'S  CRITCAL THAT YOU REPEAT THESES EXACT SAME STEPS ABOVE FOR OUTBOUND BLOCK.**
+- **IT'S  CRITCAL THAT YOU REPEAT THESES EXACT SAME STEPS ABOVE FOR OUTBOUND BLOCK.**
 
 ---
 
@@ -198,11 +195,11 @@ This screenshot above shows a Diabolist VR folder, **use this same method to dir
 
 ---
 
-- It is CRITICAL to set your pagefile size to 20GB (20,000mb).
-- 20GB is the modded SkyrimVR standard if you have 16GB RAM, I personally use 40GB pagefile size with 32GB of physical Ram, as I prefer the extra overhead.
-- Use this number for both the initial size and max size on 1 free SSD with enough space.
-- There is no need to apply this pagefile size setting to multiple hard drives.
-- Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is HIGHLY RECOMMENDED while using the pagefile setup with 1 free hard drive in this fashion & how to configure the Windows Paging File Size is explained [HERE](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
+- It is **CRITICAL** to set your pagefile size to 20GB (20,000mb).
+- **20GB is the modded SkyrimVR standard if you have 16GB RAM**, I personally use 40GB pagefile size with 32GB of physical Ram, as I prefer the extra overhead.
+- **Use this number for both the initial size and max size on 1 free SSD with enough space.**
+- There is **no need to apply this pagefile size setting to multiple hard drives.**
+- Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is **HIGHLY RECOMMENDED** while using the pagefile setup with 1 free hard drive in this fashion, further details on this and how to configure the Windows Paging File Size is explained [**HERE**](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
 
   ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
