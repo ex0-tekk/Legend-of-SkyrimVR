@@ -50,7 +50,7 @@
 
 ## 1 - INTRODUCTION
 
-Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:
+**Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
 
 - Green Rupees.
 - Hookshot Claw.
@@ -71,17 +71,20 @@ Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to th
 
 ## **2 - RECOMMENDED SPECS FOR LoSVR**
 
-Legend of SkyrimVR should run well on medium to high end HMD/PC configurations, I focused heavily on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
+Legend of SkyrimVR should run well on medium to high end HMD/PC configurations, I focused **heavily** on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
-Minimum Recommended Specs for LoSVR: 20xx graphics card (1080 should still work but it might be laggy without further performance tweaking than this install guide provides, users will need to troubleshoot these issues on their own), AMD Ryzen 7 or Intel 7, 16GB RAM, Solid State Drive (SSD Must be used, Do Not Use a traditional HDD).
+Minimum Recommended Specs for LoSVR: 
 
-This should be a good start for decent performance.
+- 20xx graphics cards **_(30xx cards are highly recommended, and 1080 should still work but it will be laggy and require further performance tweaking, users will need to troubleshoot these issues on their own.)_**
+- AMD Ryzen-5 or Intel-5. _(7 or 9 is recommended.)_
+- 16 GB RAM. _(32 GB is recommended.)_
+- Solid State Drive. _(SSD **MUST** be used, **DO NOT Use a traditional hard drive.**)_
 
-Additionally, VR controller functionality and physics are all enhanced or improved through various tools, mods and .ini settings.
+**This should be a good start for decent performance.**
 
-The initial wabbajack install file size is around 3.5 GB with a complete LoSVR install size of 76 GB (roughly 80 GB total), it’s HIGHLY RECOMMENDED that you install this on a NVMe M.2 SSD for optimal performance, although traditional SSD should be fine.
+A complete LoSVR install has a total size of roughly 80 GB, it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
 
-Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. I will go over that and other recommended settings throughout this guide.
+Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
 LoSVR is developed and tested with this HMD and PC setup:
 
