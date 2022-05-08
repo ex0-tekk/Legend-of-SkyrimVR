@@ -28,7 +28,7 @@
 
 ---
   
-- **[4 MCM Recorder Auto-Load Settings]**(#4-mcm-recorder-auto-load-settings)
+- **[4 MCM Recorder Auto-Load Settings](#4-mcm-recorder-auto-load-settings)**
 
   - [4a Fine-Tuned Challenge](#4a-fine-tuned-challenge)
   
