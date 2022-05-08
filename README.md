@@ -209,14 +209,14 @@ iProjectedMenuTextureSize = 2172
 
 These 2 sets of numbers above will always equal the largest number of your headsets resolution & they *should* be adjusted with this ini configuration tool to match your HMD, for best in-game menu texture size.
 
-### 3g CPU Threads
+### **3g - CPU Threads**
 
 iNumHWThreads & iNumThreads represents how many threads your CPU has, it’s set to 16 threads in the skyrimvr.ini so this will need to be changed to your own CPU threads if it is not 16, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [CPUID](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [LoSVR / DVR Discord](https://discord.gg/wWF4Nb6JuB)
 You can close the SkyrimVR ini Tweaker now.
 
 ---
 
-## 4 MCM Recorder Auto-Load Settings
+## **4 - MCM Recorder Auto-Load Settings**
 
 Start LoSVR through SKSE on the top right section of ModOrganizer, you can create a Hylian race Link character, simply goto the Hylian race then navigate to the preset settings and drag the slider all the way to the right, this is the Link preset, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in LoSVR, It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings for LoSVR. These Auto-Load settings are Highly Recommended and some are CRITICAL for the best LoSVR experience. This process will give users a notification if they try to interrupt and it will warn them to let it finish, ( PLEASE LET THIS FINISH ) when it's done loading you will be notified.
 ![Please Exit Menu LoSVR](https://user-images.githubusercontent.com/78007822/160779185-30f4e395-4044-4dfb-b87a-cec5137ab18e.png)
@@ -224,18 +224,18 @@ Start LoSVR through SKSE on the top right section of ModOrganizer, you can creat
 
 The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) nexus link is provided for further information, the author provides a short YouTube video to help you fully understand how this mod works.
 
-### 4a Fine-Tuned Challenge
+### **4A - Fine-Tuned Challenge**
 
 LoSVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod but not mandatory to use in the game, you can use the vanilla difficulty settings without any problems, however, the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 
-### 4b LoSVR Monster Population
+### 4B LoSVR Monster Population
 
 LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC) & Relics of Hyrule (RoH) Monsters. Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.  
 NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge, otherwise you will only be using vanilla difficulty settings.
 
-### 4c Nethers Follower Framework
+### 4C Nethers Follower Framework
 
 Difficulty Settings for Followers GIVING DAMAGE can be adjusted in the Nethers Follower Framework mod settings inside MCM. It is also possible to ADD custom Followers like Inigo and Lucien into the Framework so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. Please read this very helpful [PDF Guide](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of this mod, if needed, as NFF has a slew of options to get acquainted with.  
 Also included is [Ashien's Cursed Rings](https://www.nexusmods.com/skyrim/mods/64530) <--click & read the mod page for the rings location, this mod will help your followers effectively TAKE DAMAGE at higher levels, so as to not be god-like DMG sponges.
