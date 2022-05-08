@@ -174,7 +174,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
   ![Firewall Settings 3](https://user-images.githubusercontent.com/78007822/140577020-ba21dac5-6462-4fdc-b5bf-25893ec53587.png)
   
-- Now **direct this window above to your SkyrimVR root folder** and select **SkyrimVR.exe**
+- Now **direct this window shown above to your SkyrimVR root folder** and select **SkyrimVR.exe**
 
   ![Firewall Settings 4](https://user-images.githubusercontent.com/78007822/140572008-768a8955-f3a7-4cdc-8a3c-aa9dec013d86.png)
 
@@ -228,7 +228,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - When that initial download is done, a new Wabbajack window will pop up, on the bottom right select the **Install Location (3 Dots ...)** select the DVR folder you created and the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
-- Now **click the big blue arrow**, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Legend of SkyrimVR 1.0.6.wabbajack.manifest.json**](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
+- Now **click the big blue arrow**, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Legend of SkyrimVR 1.0.7.wabbajack.manifest.json**](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 
 - After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the **GameFilesFolder**, now **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
 
@@ -238,7 +238,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ---
 
-There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC / HMD, so it’s best to adjust these based on your VR resolution and CPU threads.
+There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC-VR setup, so it’s best to adjust these based on your VR resolution and CPU threads.
 
 **NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later.**
 
@@ -283,6 +283,7 @@ This represents how many threads your CPU has, it’s set to 16 threads in the s
 ---
 
 Start LoSVR through SKSE on the top right section of ModOrganizer, you can create a Hylian race Link character, simply goto the Hylian race then navigate to the preset settings and drag the slider all the way to the right, this is the Link preset, once you finish creating your new character and you spawn into the starting area it will spam the top of your screen with MCM mods being enabled in LoSVR, It will also Auto-Load and streamline ALL Highly Recommeneded and Critical specific settings for LoSVR. These Auto-Load settings are Highly Recommended and some are CRITICAL for the best LoSVR experience. This process will give users a notification if they try to interrupt and it will warn them to let it finish, ( PLEASE LET THIS FINISH ) when it's done loading you will be notified.
+
 ![Please Exit Menu LoSVR](https://user-images.githubusercontent.com/78007822/160779185-30f4e395-4044-4dfb-b87a-cec5137ab18e.png)
 ![Finished MCM Menu LoSVR](https://user-images.githubusercontent.com/78007822/160780187-94b9d489-c7a4-4097-a1b4-f76143c802b5.png)
 
@@ -294,9 +295,11 @@ The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) ne
 
 ---
 
-LoSVR uses Adept difficulty by default, this is CRITICAL to utilize the Fine-Tuned Challenge mod but not mandatory to use in the game, you can use the vanilla difficulty settings without any problems, however, the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, this mod simply REPLACES the vanilla difficulty settings with detailed % numbers. Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, but for the best experience you would set the multipliers progressively higher, for example I use: Easy: 100%, Medium: 125%, Hard: 150%, Very Hard: 200%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 75% Dmg Inflicted and 125% Dmg Taken, I also take followers on my adventures, you'll probably want to aswell.
+LoSVR uses Adept difficulty by default, this is **CRITICAL** to utilize the Fine-Tuned Challenge mod, **but this mod is Not required to use in the game**, you can use simply the vanilla difficulty settings without any problems, however, the dmg & spawn multiplier numbers will not function as intended if any other vanilla difficulty setting is used, **this mod simply REPLACES the vanilla difficulty settings with detailed % numbers.** Experiment if you want, however, Fine-Tuned DEFAULT % with ADEPT set is a good start if you want easy dungeon crawling, however, **for the best experience** you would set the multipliers progressively higher, for **example,** I use: Easy: 130%, Medium: 140%, Hard: 150%, Very Hard: 160%, then adjust the Dmg taken & Dmg inflicted sliders based on your preferences, I use 80% Dmg Inflicted and 120% Dmg Taken, I also take followers on my adventures, **you'll probably want to do the same.**
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
+
+- These are the **DEFAULT settings** that this Difficulty mod comes with, as shown above.
 
 ---
 
