@@ -307,7 +307,7 @@ LoSVR uses Adept difficulty by default, this is **CRITICAL** to utilize the Fine
 ---
 
 LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC) & Relics of Hyrule (RoH) Monsters. Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.  
-NOTE: Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge, otherwise you will only be using vanilla difficulty settings.
+**NOTE:** **Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge**, otherwise you will simply be using vanilla difficulty settings.
 
 ---
 
@@ -338,7 +338,14 @@ With SteamVR, I recommend using [**The Sharper Eye**](https://www.nexusmods.com/
 
 ---
 
-TAA makes the distant image in VR have less jaggies (shimmer), and it's **turned ON by default**, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA, then simply disable it via the main options in game when playing**, additionally, it is **CRITICAL** to open your SkyrimVR ini Tweaker tool before disabling and set bTAAWater = 0 **ONLY IF** you decide to disable TAA, otherwise you may see visual anomalies with water. ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and set bTAAWater = 0, otherwise you may see visual anomalies with water.
+TAA makes the distant image in VR have less jaggies (shimmer), and it's **turned ON by default**, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA, then simply open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and disable it with these ini settings shown below.**
+
+```ini
+bTAAWater = 0
+bUseTAA = 0
+```
+
+ Additionally, it is **CRITICAL These steps are ONLY taken IF you decide to disable TAA.**
 
 ---
 
@@ -346,7 +353,8 @@ TAA makes the distant image in VR have less jaggies (shimmer), and it's **turned
 
 ---
 
-The SkyrimVR specific nVidia Control Panel settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other HMDs, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
+The SkyrimVR specific nVidia Control Panel settings I have provided are for better visual clarity for the Rift S, but they likely work fine with a range of other VR headsets, do some research online and feel free to experiment with your own settings if these are not sufficient for your GPU.
+
 ![SkyrimVR nVidia Settings 1 smaller](https://user-images.githubusercontent.com/78007822/162099592-df80d056-3604-4779-847d-ea3a36b6f6b8.png)
 ![SkyrimVR nVidia Settings 2 smaller](https://user-images.githubusercontent.com/78007822/162099809-bbbe5c6d-2871-4c45-a337-419a94ce8f6b.png)
 
@@ -356,7 +364,7 @@ The SkyrimVR specific nVidia Control Panel settings I have provided are for bett
 
 ---
 
-If you want to reset your Legend of SkyrimVR .ini files back to install defaults: [skyrimprefs.ini & skyrimvr.ini](https://drive.google.com/drive/folders/1YX6sdGIDGVBPIkMNnNCkCNa6JZMBmhul?usp=sharing) ⬅️️ click this link to get both current files and then overwrite them inside your ‘LoSVR\profiles\Legend of SkyrimVR’ folder, also make sure to grab the Skyrim.ini file and place it inside your root SkyrimVR folder.
+If you want to **reset your Legend of SkyrimVR .ini files** back to install default: [**skyrimprefs.ini & skyrimvr.ini**](https://drive.google.com/drive/folders/1YX6sdGIDGVBPIkMNnNCkCNa6JZMBmhul?usp=sharing) ⬅️️ click this link to get **ALL current ini files** and then **overwrite them inside your ‘LoSVR\profiles\Legend of SkyrimVR’ folder**, also make sure to **Copy the Skyrim.ini file and place it inside your root SkyrimVR folder, if you decide to Reset these files.
 
 ---
 
@@ -364,7 +372,12 @@ If you want to reset your Legend of SkyrimVR .ini files back to install defaults
 
 ---
 
-LoSVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order, if you add more mods, you will NEED to know where to place those new plugins and loose files, you will also need to incorporate them into the many custom made patches (if this is needed), additionally, I WILL NOT provide support with changing ANY aspect of this modlist. LoSVR support is EXCLUSIVE to the modlist provided, that being said, _If_ you mess up the plugins order somehow, you can simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date.
+**LoSVR has been manually sorted from top to bottom & using loot WILL destroy the correct plugin order**.
+
+- Want to **add more mods?** then **you will NEED to know where to place those new plugins and loose files.**
+- You will also need to **incorporate your new mods into the many custom made patches if this is needed after checking xEdit for plugin conflicts**, additionally, **I WILL NOT be providing support with changing ANY aspect of this modlist so please do not ask.**
+
+- **LoSVR support is EXCLUSIVE to the modlist provided**, that being said, **_If_** you mess up the plugins order somehow, you can **simply click the circular icon on the Mod Organizer window to restore the original plugin order based on the most recent date as shown below.**
 
 ![No LOOT Sorting](https://user-images.githubusercontent.com/78007822/160706286-4ae45da6-198f-4c68-9544-f1c14688a421.png)
 
@@ -375,12 +388,11 @@ LoSVR has been manually sorted from top to bottom & using loot WILL destroy the 
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) if you need modlist support.
+- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need modlist support **or** if you find any game breaking bugs.
 
 **Thanks for downloading Legend of SkyrimVR!**
 
-...but most importantly...
-Have Fun!!
+**...but most importantly ... HAVE FUN!** **:D**
 
 ![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
