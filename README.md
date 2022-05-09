@@ -298,7 +298,7 @@ LoSVR uses Adept difficulty by default, this is **CRITICAL** to utilize the Fine
 
 ![Fine-Tuned Challenge Settings](https://user-images.githubusercontent.com/78007822/139785982-11c9f46d-1439-4129-a33e-d783dc2c8b3b.png)
 
-- These are the **DEFAULT settings** that Fine-Tuned Challenge comes with.
+- As shown above, these are the **DEFAULT settings** that Fine-Tuned Challenge comes with.
 
 ---
 
@@ -338,7 +338,7 @@ With SteamVR, I recommend using [**The Sharper Eye**](https://www.nexusmods.com/
 
 ---
 
-TAA makes the distant image in VR have less jaggies (shimmer), and it's turned ON by default with LoSVR, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, if you don't want TAA, then simply disable it via the options in game when you are playing, additionally, it is CRITICAL to open your SkyrimVR ini Tweaker tool, ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and set bTAAWater = 0, otherwise you may see visual anomalies with water.
+TAA makes the distant image in VR have less jaggies (shimmer), and it's **turned ON by default**, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA, then simply disable it via the main options in game when playing**, additionally, it is **CRITICAL** to open your SkyrimVR ini Tweaker tool before disabling and set bTAAWater = 0 **ONLY IF** you decide to disable TAA, otherwise you may see visual anomalies with water. ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and set bTAAWater = 0, otherwise you may see visual anomalies with water.
 
 ---
 
