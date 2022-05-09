@@ -388,7 +388,7 @@ If you want to **reset your Legend of SkyrimVR .ini files** back to install defa
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need modlist support **or** if you find any game breaking bugs.
+- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you any need modlist support **or** if you find any game breaking bugs, friendly general chat is also available.
 
 **Thanks for downloading Legend of SkyrimVR!**
 
