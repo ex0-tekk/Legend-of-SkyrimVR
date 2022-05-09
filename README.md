@@ -393,14 +393,16 @@ If you want to **reset your Legend of SkyrimVR .ini files** back to install defa
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you any need additional support **or** if you find any game breaking bugs.
+- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need any additional support **or** if you find any critical bugs to report.
 - Friendly general chat is also available. **:)**
+
+---
 
 **Thanks for downloading Legend of SkyrimVR.**
 
 **...but most importantly ...**
 
-**HAVE FUN!**
+**Have Fun in your Hyrule themed Tamriel!**
 
 ![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
