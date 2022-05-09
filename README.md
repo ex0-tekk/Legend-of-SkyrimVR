@@ -113,15 +113,15 @@ LoSVR is developed and tested with this HMD and PC setup:
 
 ---
 
-### From here forward **I will be using 2 terms over and over.**
+**From here forward, I will be using 2 terms Over and Over.**
 
-- **HIGHLY RECOMMENDED**  and  **CRITICAL.**
+**HIGHLY RECOMMENDED**  and  **CRITICAL.**
   
 ---
 
-- **HIGHLY RECOMMENDED is IMPORTANT**, but also with flexibility towards other configurations if the user desires.
+- **HIGHLY RECOMMENDED is IMPORTANT**, but also with flexibility towards other configurations if the player desires.
 
-- **CRITICAL is MANDATORY** and **MUST BE DONE** in order to make the game run properly, or as LoSVR was intended to run, in all aspects.
+- **CRITICAL is MANDATORY** and **-MUST BE DONE-** in order to make the game run properly, or as LoSVR was intended to run, in all aspects.
 
 - **PLEASE PAY ATTENTION TO THESE 2 WORDS FOR THE REST OF THIS INSTALL GUIDE.**
 
