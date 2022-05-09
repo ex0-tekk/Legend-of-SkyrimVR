@@ -83,7 +83,7 @@
 
 ---
 
-Legend of SkyrimVR should run well on medium to high end HMD/PC configurations, I focused **heavily** on optimizing all performance related settings via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
+Legend of SkyrimVR should run well on medium to high end PC-VR configurations, I focused **heavily on optimizing all performance related settings** via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
 Minimum Recommended Specs for LoSVR:
 
