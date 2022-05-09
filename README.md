@@ -8,55 +8,55 @@
 
 ---
 
-- **[1 - Introduction & Modlist Features](#1---introduction-&-modlist-features)**
+- **[1. Introduction & Modlist Features](#1.-introduction-&-modlist-features)**
 
-- **[2 - Recommended Specs for LoSVR](#2---recommended-specs-for-losvr)**
-
----
-
-- **[3 - Gameplay Prep](#3---gameplay-prep)**
-
-  - **[3A - SkyrimVR Install](#3a---skyrimvr-install)**
-
-  - **[3B - Visual C Runtime Installs](#3b---visual-c-runtime-installs)**
-  
-  - **[3c - Windows Antivirus and Firewall Settings](#3c---windows-antivirus-and-firewall-settings)**
-
-  - **[3D - Windows Paging File Size](#3d---windows-paging-file-size)**
-  
-  - **[3E - Wabbajack and LoSVR Install](#3e---wabbajack-and-losvr-install)**
-  
-  - **[3F SkyrimVR ini Tweaker](#3f---skyrimvr-ini-tweaker)**
-  
-  - **[3G CPU Threads](#3g---cpu-threads)**
-
----
-  
-- **[4 MCM Recorder Auto-Load Settings](#4-mcm-recorder-auto-load-settings)**
-
-  - **[4A Fine-Tuned Challenge](#4a-fine-tuned-challenge)**
-  
-  - **[4B LoSVR Monster Population](#4b-losvr-monster-population)**
-
-  - **[4C Nethers Follower Framework](#4c-nethers-follower-framework)**
+- **[2. PC Requirements for LoSVR](#2.-pc-requirements-for-losvr)**
 
 ---
 
-- **[5 The Sharper Eye](#5-the-sharper-eye)**
+- **[3. Gameplay Prep](#3.-gameplay-prep)**
 
-- **[6 TAA On or Off](#6-taa-on-or-off)**
+  - **[3A. SkyrimVR Install](#3a-skyrimvr-install)**
 
-- **[7 Nvidia Settings](#7-nvidia-settings)**
+  - **[3B. Visual C Runtime Installs](#3b.-visual-c-runtime-installs)**
+  
+  - **[3c. Windows Antivirus and Firewall Settings](#3c.-windows-antivirus-and-firewall-settings)**
 
-- **[8 SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)**
+  - **[3D. Windows Paging File Size](#3d.-windows-paging-file-size)**
+  
+  - **[3E. Wabbajack and LoSVR Install](#3e.-wabbajack-and-losvr-install)**
+  
+  - **[3F. SkyrimVR ini Tweaker](#3f.-skyrimvr-ini-tweaker)**
+  
+  - **[3G. CPU Threads](#3g.-cpu-threads)**
 
-- **[9 DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)**
+---
+  
+- **[4. MCM Recorder Auto-Load Settings](#4.-mcm-recorder-auto-load-settings)**
 
-- **[10 - INSTALL IS COMPLETE](#10-install-is-complete)**
+  - **[4A. Fine-Tuned Challenge](#4a-fine-tuned-challenge)**
+  
+  - **[4B. LoSVR Monster Population](#4b-losvr-monster-population)**
+
+  - **[4C. Nethers Follower Framework](#4c-nethers-follower-framework)**
 
 ---
 
-## **1 - Introduction & Modlist Features**
+- **[5. The Sharper Eye](#5.-the-sharper-eye)**
+
+- **[6. TAA On or Off](#6.-taa-on-or-off)**
+
+- **[7. Nvidia Settings](#7.-nvidia-settings)**
+
+- **[8 SkyrimVR and SkyrimPrefs ini](#8.-skyrimvr-and-skyrimprefs-ini)**
+
+- **[9 DO NOT SORT LoSVR WITH LOOT](#9.-do-not-sort-losvr-with-loot)**
+
+- **[10 - INSTALL IS COMPLETE](#10.-install-is-complete)**
+
+---
+
+## **1. Introduction & Modlist Features**
 
 ---
 
@@ -79,7 +79,7 @@
 
 ---
 
-## **2 - PC REQUIREMENTS FOR LoSVR**
+## **2. PC REQUIREMENTS FOR LoSVR**
 
 ---
 
@@ -111,7 +111,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-## **3 - GAMEPLAY PREP**
+## **3. GAMEPLAY PREP**
 
 ---
 
@@ -129,7 +129,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **3A - SkyrimVR Install**
+### **3A. SkyrimVR Install**
 
 ---
 
@@ -141,7 +141,7 @@ It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to p
 
 ---
 
-### **3B - Visual C Runtime Installs**
+### **3B. Visual C Runtime Installs**
 
 ---
 
@@ -149,7 +149,7 @@ It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to p
 
 ---
 
-### **3C - Windows Antivirus and Firewall Settings**
+### **3C. Windows Antivirus and Firewall Settings**
 
 ---
 
@@ -197,7 +197,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ---
 
-### **3D - Windows Paging File Size**
+### **3D. Windows Paging File Size**
 
 ---
 
@@ -211,7 +211,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ---
 
-### **3E - Wabbajack and LoSVR Install**
+### **3E. Wabbajack and LoSVR Install**
 
 ---
 
@@ -244,7 +244,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ---
 
-### **3F - SkyrimVR ini Tweaker**
+### **3F. SkyrimVR ini Tweaker**
 
 ---
 
@@ -274,7 +274,7 @@ This configuration window will pop up.⬇️
 
 ---
 
-### **3G - CPU Threads**
+### **3G. CPU Threads**
 
 ---
 
@@ -290,7 +290,7 @@ This configuration window will pop up.⬇️
 
 ---
 
-## **4 - MCM Recorder Auto-Load Settings**
+## **4. MCM Recorder Auto-Load Settings**
 
 ---
 
@@ -303,7 +303,7 @@ The [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) ne
 
 ---
 
-### **4A - Fine-Tuned Challenge**
+### **4A. Fine-Tuned Challenge**
 
 ---
 
@@ -315,7 +315,7 @@ LoSVR uses Adept difficulty by default, this is **CRITICAL** to utilize the Fine
 
 ---
 
-### **4B - LoSVR Monster Population**
+### **4B. LoSVR Monster Population**
 
 ---
 
@@ -324,7 +324,7 @@ LoSVR uses several monster mods at its core which have either been repaired or e
 
 ---
 
-### **4C - Nethers Follower Framework**
+### **4C. Nethers Follower Framework**
 
 ---
 
@@ -336,7 +336,7 @@ Also included is [**Ashien's Cursed Rings**](https://www.nexusmods.com/skyrim/mo
 
 ---
 
-## **5 - The Sharper Eye**
+## **5. The Sharper Eye**
 
 ---
 
@@ -348,22 +348,23 @@ With SteamVR, **I recommend** using [**The Sharper Eye mod**](https://www.nexusm
 
 ---
 
-## **6 - TAA On or Off**
+## **6. TAA On or Off**
 
 ---
 
 TAA makes the distant image in VR have less jaggies (shimmer), and it's **turned ON by default**, it is also enhanced by a TAA tweaking auto-load feature from FPS Stabilizer, however, **if you don't want TAA, then simply open your SkyrimVR ini Tweaker tool ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/140593759-0e282f42-2d72-472c-8f67-88fc89e86b22.png) and disable it with these ini settings shown below.**
 
-```ini
+---
+
 bTAAWater = 0
+
 bUseTAA = 0
-```
 
  Additionally, it is **CRITICAL These steps are ONLY taken IF you decide to disable TAA.**
 
 ---
 
-## **7 - NVIDIA Settings**
+## **7. NVIDIA Settings**
 
 ---
 
@@ -374,7 +375,7 @@ The SkyrimVR specific nVidia Control Panel settings I have provided are for bett
 
 ---
 
-## **8 - SkyrimVR and SkyrimPrefs ini**
+## **8. SkyrimVR and SkyrimPrefs ini**
 
 ---
 
@@ -384,7 +385,7 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ---
 
-## **9 - DO NOT SORT LoSVR WITH LOOT**
+## **9. DO NOT SORT LoSVR WITH LOOT**
 
 ---
 
@@ -399,7 +400,7 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ---
 
-## **10 - INSTALL IS COMPLETE**
+## **10. INSTALL IS COMPLETE**
 
 ---
 
