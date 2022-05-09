@@ -170,7 +170,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
   ![Firewall Settings 1](https://user-images.githubusercontent.com/78007822/140569744-80e05750-decc-48e4-976e-a84ac707259a.png)
 
-### When the Windows firewall options pop up, **follow these steps below**
+- ### When the Windows firewall options pop up, **follow these steps below**
 
 - 1 - **Click Inbound Rules.**
 - 2 - **Click New Rule.**
