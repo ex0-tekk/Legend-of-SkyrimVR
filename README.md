@@ -326,7 +326,7 @@ Also included is [**Ashien's Cursed Rings**](https://www.nexusmods.com/skyrim/mo
 
 ---
 
-With SteamVR, I recommend using [**The Sharper Eye**](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) mod with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen, also experiment with these settings if you wish, as you may get better results suited to your own preferences,  
+With SteamVR, **I recommend** using [**The Sharper Eye mod**](https://www.nexusmods.com/skyrimspecialedition/mods/46999/) with or without TAA, this mod needs to be downloaded manually and simply unziped and placed inside of the main SkyrimVR folder, It includes the preset, the required shader and a custom VR-enabled Reshade build, additionally, these are the settings I use for a relatively sharp image with and without TAA, performance mode is also available on the bottom right corner, click HOME on your keyboard to open and close this window, it will be visible on your desktop VR screen, also experiment with these settings if you wish, as you may get better results suited to your own preferences,  
 
 **NOTE:** if any visual screen flickering happens during this process then check your Super Sampling slider option inside the default SkyrimVR menu settings and adjust if needed... as this setting seems to also affect The Sharper Eye Mod.
 
