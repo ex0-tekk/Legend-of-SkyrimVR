@@ -222,15 +222,19 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - **IMPORTANT REMINDER: -DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to **admin restrictions**.
 
-- Now once the intitial software is done downloading, open the Wabbajack software and go to **Browse Modlists.**
+- Now once the intitial software is done downloading, open the Wabbajack software and go to **Browse Modlists**, as sown below.
 
-- Look for the **drop down menu on the top center section**, then scroll down to Skyrim VR.
-  
-- Checkmark the **Show Unofficial Lists** option on the top right section.
-  
-- Look for Legend of SkyrimVR and click the small Download Modlist arrow to begin the install process.
+  ![WJ Install 1](https://user-images.githubusercontent.com/78007822/167326147-64a60abe-31b7-4731-bbdf-dda6d056596f.png)
 
-- When that initial download is done, a new Wabbajack window will pop up, on the bottom right select the **Install Location (3 Dots ...)** select the DVR folder you created and the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
+- 1 Look for the **drop down menu on the top center section**, then scroll down to Skyrim VR.
+  
+- 2 Checkmark the **Show Unofficial Lists** option on the top right section.
+  
+- 3 Look for Legend of SkyrimVR and click the small Download Modlist arrow as show below to start the install process.
+
+![WJ Install 2](https://user-images.githubusercontent.com/78007822/167328166-61dc96fc-82c6-4194-9097-2b8dd61ccbbd.png)
+
+- When that download above is ready a new Wabbajack window will pop up, go ahead and select the **Install Location (3 Dots ...)** on the bottom right section, then select the DVR folder you created peviously and **the download section will automatically pick the mod folder for you inside of itself**, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
 - Now **click the big blue arrow**, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Legend of SkyrimVR 1.0.7.wabbajack.manifest.json**](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
 
