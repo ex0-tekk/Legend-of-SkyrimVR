@@ -113,13 +113,17 @@ LoSVR is developed and tested with this HMD and PC setup:
 
 ---
 
-From here forward I will be using 2 terms over and over.
+### From here forward **I will be using 2 terms over and over.**
 
-HIGHLY RECOMMENDED  and  CRITICAL.
+- **HIGHLY RECOMMENDED**  and  **CRITICAL.**
+  
+---
 
-HR is IMPORTANT, but also with flexibility towards other configurations if the user desires.
- CR is MANDATORY, to make the game run properly, or as LoSVR was intended to run, in all aspects.
-PLEASE pay attention to these words throughout the rest of this guide.
+- **HIGHLY RECOMMENDED is IMPORTANT**, but also with flexibility towards other configurations if the user desires.
+
+- **CRITICAL is MANDATORY** and **MUST BE DONE** in order to make the game run properly, or as LoSVR was intended to run, in all aspects.
+
+- **PLEASE PAY ATTENTION TO THESE 2 WORDS FOR THE REST OF THIS INSTALL GUIDE.**
 
 ---
 
@@ -131,7 +135,7 @@ It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to p
 
 - Steam does not easily allow for new install folders, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
 
-- After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive, once you see the Bethesda logo pop up, you can close the game and continue following this install guide.
+- After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
 ---
 
@@ -224,7 +228,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
   
 - Checkmark the **Show Unofficial Lists** option on the top right section.
   
-- Look for Legend of SkyrimVR and click the small Download Modlist arrow to begin the install process.**
+- Look for Legend of SkyrimVR and click the small Download Modlist arrow to begin the install process.
 
 - When that initial download is done, a new Wabbajack window will pop up, on the bottom right select the **Install Location (3 Dots ...)** select the DVR folder you created and the download section will automatically pick the mod folder for you inside of itself, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
