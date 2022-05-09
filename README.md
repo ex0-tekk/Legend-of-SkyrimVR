@@ -79,33 +79,35 @@
 
 ---
 
-## **2 - RECOMMENDED SPECS FOR LoSVR**
+## **2 - PC REQUIREMENTS FOR LoSVR**
 
 ---
 
-Legend of SkyrimVR should run well on medium to high end PC-VR configurations, I focused **heavily on optimizing all performance related settings** via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
+Legend of SkyrimVR should run well on modern PC-VR configurations from medium to high end, **I focused heavily on optimizing all performance related settings** via ini files, mods, tools and using a low 512k res DynDOLOD configuration for hybrid 3D trees.
 
-Minimum Recommended Specs for LoSVR:
+### **Minimum and Recommended PC-VR Setup for LoSVR:**
 
 - 20xx graphics cards **_(30xx cards are highly recommended, and 1080 should still work but it will be laggy and require further performance tweaking, users will need to troubleshoot these issues on their own.)_**
 - AMD Ryzen-5 or Intel-5. _(7 or 9 is recommended.)_
 - 16 GB RAM. _(32 GB is recommended.)_
 - Solid State Drive. _(SSD **MUST** be used, **DO NOT Use a traditional hard drive.**)_
 
-**This should be a good start for decent performance.**
+- **This should be a good start for decent performance.**
 
 A complete LoSVR install has a total size of roughly 80 GB, it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
-LoSVR is developed and tested with this PC-VR setup:
+---
 
-- Oculus Rift S
-- Win 10 ver.20H2 Fully Updated
-- Ryzen 7 3800x AMD Processor
-- 32 Gigs of G-Skill 14-34 Low Latency RAM
-- Kingston NVMe M.2 1tb SSD
-- Nvidia 3090 GPU
+**LoSVR is developed and tested with this PC-VR setup:**
+
+- Oculus Rift S.
+- Win 10 ver.20H2 Fully Updated.
+- Ryzen 7 3800x AMD Processor.
+- 32 Gigs of 14-34 Low Latency RAM.
+- Kingston NVMe M.2 1tb SSD.
+- Nvidia 3090 GPU.
 
 ---
 
