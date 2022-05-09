@@ -369,7 +369,9 @@ The SkyrimVR specific nVidia Control Panel settings I have provided are for bett
 
 ---
 
-If you want to **reset your Legend of SkyrimVR .ini files** back to install default: [**skyrimprefs.ini & skyrimvr.ini**](https://drive.google.com/drive/folders/1YX6sdGIDGVBPIkMNnNCkCNa6JZMBmhul?usp=sharing) ⬅️️ click this link to get **ALL current ini files** and then **overwrite them inside your ‘LoSVR\profiles\Legend of SkyrimVR’ folder**, also make sure to **Copy the Skyrim.ini file and place it inside your root SkyrimVR folder, if you decide to Reset these files.
+If you want to **Reset your Legend of SkyrimVR .ini files** back to install defaults: [**skyrimprefs.ini & skyrimvr.ini**](https://drive.google.com/drive/folders/1YX6sdGIDGVBPIkMNnNCkCNa6JZMBmhul?usp=sharing) ⬅️️ click this link to get **ALL current ini files** and then **overwrite them inside of your ‘LoSVR\profiles\Legend of SkyrimVR’ folder.** 
+
+Also **make sure to Copy the Skyrim.ini file and place it inside your root SkyrimVR folder if you decide to Reset these files.**
 
 ---
 
