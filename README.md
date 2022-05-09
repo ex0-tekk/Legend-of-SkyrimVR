@@ -418,6 +418,6 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
 
-- Latest LoSVR Guide Update, 05/08/2022
+- Latest LoSVR Guide Update, 05/09/2022
   
 ---
