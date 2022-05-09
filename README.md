@@ -256,16 +256,19 @@ Look inside the LoSVR folder & open ModOrganizer.exe (2.4.4) Once it’s open, c
 This configuration window will pop up.⬇️
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 
-Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.
+- Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.
 
-Example: using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings.
+- **Example:** using 150% SS with SteamVR works out to 2016 x 2172 per eye on the Oculus Rift S, and this resolution is reflected with two .ini settings seen below.
 
-```ini
-iHudMenuTextureSize = 2172 
-iProjectedMenuTextureSize = 2172
-```
+---
 
-These 2 sets of numbers above will **always equal the largest number of your headsets resolution** & they **_should_** be adjusted with this ini configuration tool to match your VR headset for best in-game menu texture size.
+- iHudMenuTextureSize = 2172
+
+- iProjectedMenuTextureSize = 2172
+
+---
+
+- These 2 sets of numbers above will **always** equal the largest number of your headsets resolution & they **_should_** be adjusted with this ini configuration tool to match your VR headset for best in-game menu size.
 
 ---
 
@@ -273,15 +276,15 @@ These 2 sets of numbers above will **always equal the largest number of your hea
 
 ---
 
-```ini
-iNumHWThreads = ?
+- iNumHWThreads = ?
 
-iNumThreads = ?
-```
+- iNumThreads = ?
 
-These 2 ini settings above represent how many threads your CPU would be uusing, it’s set to 16 threads in the skyrimvr.ini by default so **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset these two ini settings to Skyrim's default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, please post in the [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB)
+---
 
-### **You can close the SkyrimVR ini Tweaker now**
+- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, if more help is needed with this, don't hesitate to post in the [**DVR Discord**](https://discord.gg/HuqU54gPcv) support channel.
+
+### **You can close the SkyrimVR ini Tweaker now.**
 
 ---
 
