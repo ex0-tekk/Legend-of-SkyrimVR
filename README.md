@@ -360,7 +360,7 @@ bTAAWater = 0
 
 bUseTAA = 0
 
- Additionally, it is **CRITICAL These steps are ONLY taken IF you decide to disable TAA.**
+Additionally, it is **CRITICAL** these steps are **ONLY taken IF you decide to disable TAA.**
 
 ---
 
