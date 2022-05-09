@@ -98,7 +98,7 @@ A complete LoSVR install has a total size of roughly 80 GB, it’s **HIGHLY RECO
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
-LoSVR is developed and tested with this HMD and PC setup:
+LoSVR is developed and tested with this PC-VR setup:
 
 - Oculus Rift S
 - Win 10 ver.20H2 Fully Updated
