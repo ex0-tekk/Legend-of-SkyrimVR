@@ -16,7 +16,7 @@
 
 - **[3. Gameplay Prep](#3.-gameplay-prep)**
 
-  - **[3A. SkyrimVR Install](#3a-skyrimvr-install)**
+  - **[3A. SkyrimVR Install](#3a.-skyrimvr-install)**
 
   - **[3B. Visual C Runtime Installs](#3b.-visual-c-runtime-installs)**
   
