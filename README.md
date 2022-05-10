@@ -34,9 +34,9 @@
 - **[5. The Sharper Eye](#5-the-sharper-eye)**
 - **[6. TAA On or Off](#6-taa-on-or-off)**
 - **[7. Nvidia Settings](#7-nvidia-settings)**
-- **[8 SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)**
-- **[9 DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)**
-- **[10 - INSTALL IS COMPLETE](#10-install-is-complete)**
+- **[8. SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)**
+- **[9. DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)**
+- **[10. INSTALL IS COMPLETE](#10-install-is-complete)**
 
 ---
 
