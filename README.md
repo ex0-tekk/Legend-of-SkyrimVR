@@ -8,51 +8,35 @@
 
 ---
 
-- **[1. Introduction & Modlist Features](#1.-introduction-&-modlist-features)**
-
-- **[2. PC Requirements for LoSVR](#2.-pc-requirements-for-losvr)**
+- **[1. Introduction & Modlist Features](#1-introduction-&-modlist-features)**
+- **[2. PC Requirements for LoSVR](#2-pc-requirements-for-losvr)**
 
 ---
 
-- **[3. Gameplay Prep](#3.-gameplay-prep)**
-
-  - **[3A. SkyrimVR Install](#3a.-skyrimvr-install)**
-
-  - **[3B. Visual C Runtime Installs](#3b.-visual-c-runtime-installs)**
-  
-  - **[3c. Windows Antivirus and Firewall Settings](#3c.-windows-antivirus-and-firewall-settings)**
-
-  - **[3D. Windows Paging File Size](#3d.-windows-paging-file-size)**
-  
-  - **[3E. Wabbajack and LoSVR Install](#3e.-wabbajack-and-losvr-install)**
-  
-  - **[3F. SkyrimVR ini Tweaker](#3f.-skyrimvr-ini-tweaker)**
-  
-  - **[3G. CPU Threads](#3g.-cpu-threads)**
+- **[3. Gameplay Prep](#3-gameplay-prep)**
+  - **[3A. SkyrimVR Install](#3a-skyrimvr-install)**
+  - **[3B. Visual C Runtime Installs](#3b-visual-c-runtime-installs)**
+  - **[3C. Windows Antivirus and Firewall Settings](#3c-windows-antivirus-and-firewall-settings)**
+  - **[3D. Windows Paging File Size](#3d-windows-paging-file-size)**
+  - **[3E. Wabbajack and LoSVR Install](#3e-wabbajack-and-losvr-install)**
+  - **[3F. SkyrimVR ini Tweaker](#3f-skyrimvr-ini-tweaker)**
+  - **[3G. CPU Threads](#3g-cpu-threads)**
 
 ---
   
-- **[4. MCM Recorder Auto-Load Settings](#4.-mcm-recorder-auto-load-settings)**
-
+- **[4. MCM Recorder Auto-Load Settings](#4-mcm-recorder-auto-load-settings)**
   - **[4A. Fine-Tuned Challenge](#4a-fine-tuned-challenge)**
-  
   - **[4B. LoSVR Monster Population](#4b-losvr-monster-population)**
-
   - **[4C. Nethers Follower Framework](#4c-nethers-follower-framework)**
 
 ---
 
-- **[5. The Sharper Eye](#5.-the-sharper-eye)**
-
-- **[6. TAA On or Off](#6.-taa-on-or-off)**
-
-- **[7. Nvidia Settings](#7.-nvidia-settings)**
-
-- **[8 SkyrimVR and SkyrimPrefs ini](#8.-skyrimvr-and-skyrimprefs-ini)**
-
-- **[9 DO NOT SORT LoSVR WITH LOOT](#9.-do-not-sort-losvr-with-loot)**
-
-- **[10 - INSTALL IS COMPLETE](#10.-install-is-complete)**
+- **[5. The Sharper Eye](#5-the-sharper-eye)**
+- **[6. TAA On or Off](#6-taa-on-or-off)**
+- **[7. Nvidia Settings](#7-nvidia-settings)**
+- **[8 SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)**
+- **[9 DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)**
+- **[10 - INSTALL IS COMPLETE](#10-install-is-complete)**
 
 ---
 
