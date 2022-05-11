@@ -1,6 +1,6 @@
 # Legend of SkyrimVR Install Guide
 
-![LoSVR Image](Legend%20of%20SkyrimVR%201080%20Logo.webp)
+![LoSVR Dark Banner Header 1080](https://user-images.githubusercontent.com/78007822/167746640-b7df319b-466b-46f9-8e62-a2ad9c88c386.png)
 
 ---
 
@@ -400,7 +400,7 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 **Have Fun in your Hyrule themed Tamriel!**
 
-![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
+![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
 - Latest LoSVR Guide Update, 05/09/2022
   
