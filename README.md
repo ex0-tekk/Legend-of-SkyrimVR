@@ -1,6 +1,6 @@
 # Legend of SkyrimVR Install Guide
 
-![LoSVR Image](Legend%20of%20SkyrimVR%201080%20Logo.webp)
+![LoSVR Dark Banner Header 1080](https://user-images.githubusercontent.com/78007822/167746640-b7df319b-466b-46f9-8e62-a2ad9c88c386.png)
 
 ---
 
@@ -8,51 +8,35 @@
 
 ---
 
-- **[1. Introduction & Modlist Features](#1.-introduction-&-modlist-features)**
-
-- **[2. PC Requirements for LoSVR](#2.-pc-requirements-for-losvr)**
+- **[1. Introduction & Modlist Features](#1-introduction-&-modlist-features)**
+- **[2. PC Requirements for LoSVR](#2-pc-requirements-for-losvr)**
 
 ---
 
-- **[3. Gameplay Prep](#3.-gameplay-prep)**
-
+- **[3. Gameplay Prep](#3-gameplay-prep)**
   - **[3A. SkyrimVR Install](#3a-skyrimvr-install)**
-
-  - **[3B. Visual C Runtime Installs](#3b.-visual-c-runtime-installs)**
-  
-  - **[3c. Windows Antivirus and Firewall Settings](#3c.-windows-antivirus-and-firewall-settings)**
-
-  - **[3D. Windows Paging File Size](#3d.-windows-paging-file-size)**
-  
-  - **[3E. Wabbajack and LoSVR Install](#3e.-wabbajack-and-losvr-install)**
-  
-  - **[3F. SkyrimVR ini Tweaker](#3f.-skyrimvr-ini-tweaker)**
-  
-  - **[3G. CPU Threads](#3g.-cpu-threads)**
+  - **[3B. Visual C Runtime Installs](#3b-visual-c-runtime-installs)**
+  - **[3C. Windows Antivirus and Firewall Settings](#3c-windows-antivirus-and-firewall-settings)**
+  - **[3D. Windows Paging File Size](#3d-windows-paging-file-size)**
+  - **[3E. Wabbajack and LoSVR Install](#3e-wabbajack-and-losvr-install)**
+  - **[3F. SkyrimVR ini Tweaker](#3f-skyrimvr-ini-tweaker)**
+  - **[3G. CPU Threads](#3g-cpu-threads)**
 
 ---
   
-- **[4. MCM Recorder Auto-Load Settings](#4.-mcm-recorder-auto-load-settings)**
-
+- **[4. MCM Recorder Auto-Load Settings](#4-mcm-recorder-auto-load-settings)**
   - **[4A. Fine-Tuned Challenge](#4a-fine-tuned-challenge)**
-  
   - **[4B. LoSVR Monster Population](#4b-losvr-monster-population)**
-
   - **[4C. Nethers Follower Framework](#4c-nethers-follower-framework)**
 
 ---
 
-- **[5. The Sharper Eye](#5.-the-sharper-eye)**
-
-- **[6. TAA On or Off](#6.-taa-on-or-off)**
-
-- **[7. Nvidia Settings](#7.-nvidia-settings)**
-
-- **[8 SkyrimVR and SkyrimPrefs ini](#8.-skyrimvr-and-skyrimprefs-ini)**
-
-- **[9 DO NOT SORT LoSVR WITH LOOT](#9.-do-not-sort-losvr-with-loot)**
-
-- **[10 - INSTALL IS COMPLETE](#10.-install-is-complete)**
+- **[5. The Sharper Eye](#5-the-sharper-eye)**
+- **[6. TAA On or Off](#6-taa-on-or-off)**
+- **[7. Nvidia Settings](#7-nvidia-settings)**
+- **[8. SkyrimVR and SkyrimPrefs ini](#8-skyrimvr-and-skyrimprefs-ini)**
+- **[9. DO NOT SORT LoSVR WITH LOOT](#9-do-not-sort-losvr-with-loot)**
+- **[10. INSTALL IS COMPLETE](#10-install-is-complete)**
 
 ---
 
@@ -107,7 +91,7 @@ Legend of SkyrimVR should run well on modern PC-VR configurations from medium to
 
 - **This should be a good start for decent performance.**
 
-A complete LoSVR install has a total size of roughly 80 GB, it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
+A complete LoSVR install has a total size of roughly 82 GB (_this includes the initial LoSVR file download_), it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
@@ -146,11 +130,11 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play**, It is also **CRITICAL** to have your **SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86)** <- ignore these 2 folders for the entire process of this install guide, due to possible **admin rights restrictions.**
+It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play**, It is also **CRITICAL** to **have your STEAM and SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86)** <- ignore these 2 folders for the entire process of this install guide, due to possible **admin rights restrictions.** **Typically the BEST place to have Steam and SkyrimVR installed is on the ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
 
-- Steam does not easily allow for new install folders, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change that.
+- If you want to use a drive OFF of your C Drive to install SkyrimVR, that's fine too, but STEAM MUST BE INSTALLED OUTSIDE OF C:/Program Files  and  C:/Program Files (x86) , simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams install locations once it's ready to use, but **the Root C drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
 
-- After you have confirmed SkyrimVR is installed in a folder outside of those 2 mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
+- After you have confirmed SkyrimVR is installed in a folder outside of those 2 Program File folders mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
 ---
 
@@ -297,7 +281,7 @@ This configuration window will pop up.⬇️
 
 ---
 
-- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in the [**DVR Discord**](https://discord.gg/HuqU54gPcv) support channel.**
+- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in** [**Discord LoSVR Support Chat**](https://discord.com/invite/HuqU54gPcv)
 
 - ### **You can close the SkyrimVR ini Tweaker now.**
 
@@ -418,7 +402,7 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need any additional support **or** if you find any critical bugs to report.
+- Please post on [**LoSVR / DVR Discord**](https://discord.com/invite/HuqU54gPcv) support channels if you need any additional support **or** if you find any critical bugs to report.
 - Friendly general chat is also available. **:)**
 
 ---
@@ -429,7 +413,7 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 **Have Fun in your Hyrule themed Tamriel!**
 
-![Legend of SkyrimVR Small 440 Logo](https://user-images.githubusercontent.com/78007822/160705710-b166b208-b7f2-4ce9-81fb-71af18df2678.png)
+![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
 - Latest LoSVR Guide Update, 05/09/2022
   
