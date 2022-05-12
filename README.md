@@ -130,9 +130,13 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play**, It is also **CRITICAL** to **have your STEAM and SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86)** <- ignore these 2 folders for the entire process of this install guide, due to possible **admin rights restrictions.** **Typically the BEST place to have Steam and SkyrimVR installed is on the ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
+It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.** 
 
-- If you want to use a drive OFF of your C Drive to install SkyrimVR, that's fine too, but STEAM MUST BE INSTALLED OUTSIDE OF C:/Program Files  and  C:/Program Files (x86) , simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams install locations once it's ready to use, but **the Root C drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
+DO NOT USE C:\Program Files  and  C:\Program Files (x86) <- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+
+**It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
+
+- If you want to use another drive for Steam or SkyrimVR, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
 
 - After you have confirmed SkyrimVR is installed in a folder outside of those 2 Program File folders mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
