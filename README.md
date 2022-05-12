@@ -60,22 +60,35 @@
 
 ---
 
-**Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
+#### **Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
 
-- Green Rupees.
-- Hookshot Claw.
-- Epona, Links Horse.
-- Hylian Race - Play as Link.
-- The Abandoned Deku Tree.
-- A Custom Tri-Force Intro Logo.
-- Randomly Enchanted Hylian Loot.
-- Princess Zelda Follower and Her Attire.
-- A Hyrule Castle Player Home with the Iron Knuckle Follower.
-- Discover Unique Monsters Mixed with Old and New Zelda Creatures.
-- A Subtle Mix of Vanilla and High Performance Cartoon Stylized Textures.
-- A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.
-- Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.
-- Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players.
+- ### **Green Rupees.**
+
+- ### **Hookshot Claw.**
+
+- ### **Epona, Links Horse.**
+
+- ### **Hylian Race - Play as Link.**
+
+- ### **The Abandoned Deku Tree.**
+
+- ### **A Custom Tri-Force Intro Logo.**
+
+- ### **Randomly Enchanted Hylian Loot.**
+
+- ### **Princess Zelda Follower and Her Attire.**
+
+- ### **A Hyrule Castle Player Home with the Iron Knuckle Follower.**
+
+- ### **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
+
+- ### **A Subtle Mix of Vanilla and High Performance Cartoon Stylized Textures.**
+
+- ### **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
+
+- ### **Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.**
+
+- ### **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players.**
 
 ---
 
