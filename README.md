@@ -268,7 +268,7 @@ This configuration window will pop up.⬇️
 
 ---
 
-- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in** [**Discord LoSVR Support Chat**](https://discord.gg/HuqU54gPcv)
+- These 2 ini settings seen above **represent how many threads your CPU has**, it’s set to 16 threads in the skyrimvr.ini and **this will need to be changed to your own CPU threads if it is not 16**, (or you can reset this entire thread of ini settings back to SkyrimVR default if you prefer) a good program to find out how many threads your processor is using, would be [**CPUID**](https://www.cpuid.com/softwares/cpu-z.html), ⬅️️ click to install, **if more help is needed with this, don't hesitate to post in** [**Discord LoSVR Support Chat**](https://discord.com/invite/HuqU54gPcv)
 
 - ### **You can close the SkyrimVR ini Tweaker now.**
 
@@ -389,7 +389,7 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 ---
 
 - **You’re Ready to Play!**
-- Please post on [**LoSVR / DVR Discord**](https://discord.gg/wWF4Nb6JuB) support channels if you need any additional support **or** if you find any critical bugs to report.
+- Please post on [**LoSVR / DVR Discord**](https://discord.com/invite/HuqU54gPcv) support channels if you need any additional support **or** if you find any critical bugs to report.
 - Friendly general chat is also available. **:)**
 
 ---
