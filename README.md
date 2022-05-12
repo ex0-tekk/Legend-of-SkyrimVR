@@ -60,7 +60,7 @@
 
 ---
 
-#### **Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
+**Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
 
 - ### **Green Rupees.**
 
