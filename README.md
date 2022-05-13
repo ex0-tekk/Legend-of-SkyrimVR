@@ -8,13 +8,13 @@
 
 ---
 
-- **[1. Introduction & Modlist Features](#1-introduction-&-modlist-features)**
+- **[1. Introduction and Modlist Features](#1-introduction-and-modlist-features)**
 - **[2. PC Requirements for LoSVR](#2-pc-requirements-for-losvr)**
 
 ---
 
 - **[3. Gameplay Prep](#3-gameplay-prep)**
-  - **[3A. SkyrimVR Install](#3a-skyrimvr-install)**
+  - **[3A. SkyrimVR and Steam Install](#3a-skyrimvr-and-steam-install)**
   - **[3B. Visual C Runtime Installs](#3b-visual-c-runtime-installs)**
   - **[3C. Windows Antivirus and Firewall Settings](#3c-windows-antivirus-and-firewall-settings)**
   - **[3D. Windows Paging File Size](#3d-windows-paging-file-size)**
@@ -40,39 +40,39 @@
 
 ---
 
-## **1. Introduction & Modlist Features**
+## **1. INTRODUCTION and MODLIST FEATURES**
 
 ---
 
-**Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and so much more, this includes:**
+### **Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and much more, this includes:**
 
-- ### **Green Rupees.**
+- **Green Rupees.**
 
-- ### **Hookshot Claw.**
+- **Hookshot Claw.**
 
-- ### **Epona, Links Horse.**
+- **Epona, Links Horse.**
 
-- ### **Hylian Race - Play as Link.**
+- **Hylian Race - Play as Link.**
 
-- ### **The Abandoned Deku Tree.**
+- **The Abandoned Deku Tree.**
 
-- ### **A Custom Tri-Force Intro Logo.**
+- **A Custom Tri-Force Intro Logo.**
 
-- ### **Randomly Enchanted Hylian Loot.**
+- **Randomly Enchanted Hylian Loot.**
 
-- ### **Princess Zelda Follower and Her Attire.**
+- **Princess Zelda Follower and Her Attire.**
 
-- ### **A Hyrule Castle Player Home with the Iron Knuckle Follower.**
+- **A Hyrule Castle Player Home with the Iron Knuckle Follower.**
 
-- ### **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
+- **Discover Unique Monsters Mixed with Old and New Zelda Creatures.**
 
-- ### **A Subtle Mix of Vanilla and High Performance Cartoon Stylized Textures.**
+- **A Subtle Mix of Vanilla and High Performance Cartoon Stylized Textures.**
 
-- ### **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
+- **A DLC Sized Legend of Zelda Mod - Relics of Hyrule, With So Much to Discover.**
 
-- ### **Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.**
+- **Legend of Zelda Music Intro with Full In-Game Zelda Music & Sound FX Overhaul.**
 
-- ### **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players.**
+- **Legend of Zelda Oracle of Seasons' Tarm Ruins, an Adventure for High Level Players.**
 
 ---
 
@@ -126,15 +126,32 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-### **3A. SkyrimVR Install**
+### **3A. SkyrimVR and Steam Install**
 
 ---
 
-It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to play**, It is also **CRITICAL** to **have your STEAM and SkyrimVR game installed in a folder OUTSIDE of  C:/Program Files  and  C:/Program Files (x86)** <- ignore these 2 folders for the entire process of this install guide, due to possible **admin rights restrictions.** **Typically the BEST place to have Steam and SkyrimVR installed is on the ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
+It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.** 
 
-- If you want to use a drive OFF of your C Drive to install SkyrimVR, that's fine too, but STEAM MUST BE INSTALLED OUTSIDE OF C:/Program Files  and  C:/Program Files (x86) , simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams install locations once it's ready to use, but **the Root C drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
+**DO NOT USE** --> C:\Program Files  and  C:\Program Files (x86) <-- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
-- After you have confirmed SkyrimVR is installed in a folder outside of those 2 Program File folders mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
+**It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE.**
+
+### **EXAMPLE**
+
+**Steam Install Location:**
+- C:\Steam
+
+**SkyrimVR Install Location:**
+- C:\Steam\steamapps\common\SkyrimVR
+
+**Legend of SkyrimVR Install Location:**
+- C:\LoSVR
+
+---
+
+- If you want to use another drive for Steam and SkyrimVR install, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change the Steam game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
+
+- After you have confirmed that Steam and SkyrimVR are both installed correctly, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
 ---
 
@@ -142,7 +159,7 @@ It is **CRITICAL to have a 100% fresh install of SkyrimVR available & ready to p
 
 ---
 
-- It's CRITICAL to install the All-In-One [**Visual C Runtime Packages**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [**Binaural 3D Surround Sound for SkrimVR**](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, **install the AIO package to cover ALL Visual C updates.**
+- It's **CRITICAL** to install the All-In-One [**Visual C Runtime Packages**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [**Binaural 3D Surround Sound for SkrimVR**](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, **install the AIO package to cover ALL Visual C updates.**
 
 ---
 
@@ -212,16 +229,16 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ---
 
-**A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
+### **A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
 
 - Download and install the current Wabbajack software linked [**HERE**](https://github.com/wabbajack-tools/wabbajack/releases),
   **NOTE:** this Wabbajack software **is a hard requirement for LoSVR to install and work properly**.
 
-- Make a folder on the SSD drive you'll be using and label it LoSVR.
+- Make a folder preferably **ON THE ROOT C DRIVE** and label it LoSVR.
 
 - **IMPORTANT REMINDER: -DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to **admin restrictions**.
 
-- Now once the intitial software is done downloading, open the Wabbajack software and go to **Browse Modlists**, as sown below.
+- Now once the intitial software is done downloading, open the Wabbajack software and go to **Browse Modlists**, as shown below.
 
   ![WJ Install 1](https://user-images.githubusercontent.com/78007822/167326147-64a60abe-31b7-4731-bbdf-dda6d056596f.png)
 
@@ -235,9 +252,9 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - When that download above is ready a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the LoSVR folder you created peviously and **the Download Location section will automatically pick the mod folder for you inside of itself**, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
-- Now **click the big blue arrow**, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Legend of SkyrimVR 1.0.7.wabbajack.manifest.json**](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
+- Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading roughly 450 mods so just be patient & let it finish, if it Freezes or Fails Install (**this may happen several times during the download and install process**), simply start the process over, just re-open the LoSVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off, **If you Cannot download this file whatsoever**, then **please join the** [**DVR & LoSVR Discord**](https://discord.com/invite/HuqU54gPcv) for further assistance and a mirrored link to the same file.
 
-- After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the **GameFilesFolder**, now **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
+- After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the folder called **Game Files Folder**, then **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
 
 ---
 
@@ -416,6 +433,6 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
-- Latest LoSVR Guide Update, 05/09/2022
+- Latest LoSVR Guide Update, 05/12/2022
   
 ---
