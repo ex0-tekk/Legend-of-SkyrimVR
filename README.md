@@ -254,7 +254,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading roughly 450 mods so just be patient & let it finish, if it Freezes or Fails Install (**this may happen several times during the download and install process**), simply start the process over, just re-open the LoSVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off, **If you Cannot download this file whatsoever**, then **please join the** [**DVR & LoSVR Discord**](https://discord.com/invite/HuqU54gPcv) for further assistance and a mirrored link to the same file.
 
-- After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the **GameFilesFolder**, now **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
+- After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the folder called **Game Files Folder**, then **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
 
 ---
 
