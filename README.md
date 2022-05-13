@@ -149,7 +149,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
 ---
 
-- If you want to use another drive for Steam or SkyrimVR install, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change Steam game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
+- If you want to use another drive for Steam and SkyrimVR install, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change the Steam game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
 
 - After you have confirmed that Steam and SkyrimVR are both installed correctly, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
@@ -252,7 +252,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - When that download above is ready a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the LoSVR folder you created peviously and **the Download Location section will automatically pick the mod folder for you inside of itself**, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
-- Now **click the big blue arrow**, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you can also download this file ➡️ [**Legend of SkyrimVR 1.0.7.wabbajack.manifest.json**](https://drive.google.com/drive/folders/1_5suHgHvNpEzpTxWGui9EegiW9sq31Kc?usp=sharing), then simply drag and drop it into the [**Wabbajack Manifest Website**](https://www.wabbajack.org/#/modlists/manifest) to see all the mods being installed, you are downloading over 500 mods so just be patient & let it finish, if it freezes then simply start the process over, to do this, open the Legend of SkyrimVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off.
+- Now click the big blue arrow, sit back & relax while it installs, if you’re curious, you can watch the mod info that pops up to get an idea of what’s being installed, you are downloading roughly 450 mods so just be patient & let it finish, if it Freezes or Fails Install (**this may happen several times during the download and install process**), simply start the process over, just re-open the LoSVR wabbajack file & click the arrow again without doing anything else & it will resume where it left off, **If you Cannot download this file whatsoever**, then please join the [DVR & LoSVR Discord](https://discord.com/invite/HuqU54gPcv) for further assistance and a mirrored link to the same file.
 
 - After install is finished, close the Wabbajack window & proceed to your LoSVR folder, then open the **GameFilesFolder**, now **drag & drop ALL of these files** into your **SkyrimVR root folder**, there _should_ be **only 1 overwrite notification**, this is for the Skyrim.ini file and is correct, **do it**.
 
