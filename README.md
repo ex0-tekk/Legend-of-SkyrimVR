@@ -223,7 +223,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - Now once the intitial software is done downloading, open the Wabbajack software and go to **Browse Modlists**, as sown below.
 
-![WJ Install 1](https://user-images.githubusercontent.com/78007822/167326147-64a60abe-31b7-4731-bbdf-dda6d056596f.png)
+  ![WJ Install 1](https://user-images.githubusercontent.com/78007822/167326147-64a60abe-31b7-4731-bbdf-dda6d056596f.png)
 
 1. Look for the **drop down menu on the top center section**, then scroll down to Skyrim VR.
   
@@ -231,7 +231,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
   
 1. Look for Legend of SkyrimVR and click the small Download Modlist arrow as show below to start the install process.
 
-  ![WJ Install 2](https://user-images.githubusercontent.com/78007822/167328166-61dc96fc-82c6-4194-9097-2b8dd61ccbbd.png)
+   ![WJ Install 2](https://user-images.githubusercontent.com/78007822/167328166-61dc96fc-82c6-4194-9097-2b8dd61ccbbd.png)
 
 - When that download above is ready a new Wabbajack window will pop up, go ahead and select the **Installation Location (3 Dots ...)** on the right side middle field section, then select the LoSVR folder you created peviously and **the Download Location section will automatically pick the mod folder for you inside of itself**, or you can select a different folder to keep the downloaded zipped mods separate, it’s your choice.
 
@@ -253,6 +253,7 @@ Look inside the LoSVR folder & open ModOrganizer.exe (2.4.4) Once it’s open, c
 
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
 This configuration window will pop up.⬇️
+
 ![SkyrimVR ini Tweaker Settings](https://user-images.githubusercontent.com/78007822/139736900-0332834d-5369-47de-add5-c8462af09bec.png)
 
 - Having personalized .ini tweaks will help overall visuals based on SuperSampling settings.
