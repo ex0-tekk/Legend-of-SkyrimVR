@@ -89,7 +89,7 @@ Legend of SkyrimVR should run well on modern PC-VR configurations from medium to
 - 20xx graphics cards **_(30xx cards are highly recommended, and 1080 should still work but it will be laggy and require further performance tweaking, users will need to troubleshoot these issues on their own.)_**
 - AMD Ryzen-5 or Intel-5. _(7 or 9 is recommended.)_
 - 16 GB RAM. _(32 GB is recommended.)_
-- Solid State Drive. _(SSD **MUST** be used, **DO NOT Use a traditional hard drive.**)_
+- Solid State Drive. _(M.2 drives are recommended for the best performance, but a SSD **MUST** be used, **DO NOT Use a traditional hard drive.**)_
 
 - **This should be a good start for decent performance.**
 
@@ -236,7 +236,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ### **A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
 
-- Download and install the current Wabbajack software linked [**HERE**](https://github.com/wabbajack-tools/wabbajack/releases),
+- Download and install the current Wabbajack software linked [**HERE**](https://www.wabbajack.org/),
   **NOTE:** this Wabbajack software **is a hard requirement for LoSVR to install and work properly**.
 
 - Make a folder preferably **ON THE ROOT C DRIVE** and label it LoSVR.
