@@ -46,6 +46,8 @@
 
 ### **Legend of SkyrimVR is a high fantasy theme-based mod list that pays homage to the Zelda series by adding 13 Zelda inspired mods and much more, this includes:**
 
+---
+
 - **Green Rupees.**
 
 - **Hookshot Claw.**
@@ -130,7 +132,7 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 ---
 
-It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.** 
+It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.**
 
 **DO NOT USE** --> C:\Program Files  and  C:\Program Files (x86) <-- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
@@ -139,12 +141,15 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 ### **EXAMPLE**
 
 **Steam Install Location:**
+
 - C:\Steam
 
 **SkyrimVR Install Location:**
+
 - C:\Steam\steamapps\common\SkyrimVR
 
 **Legend of SkyrimVR Install Location:**
+
 - C:\LoSVR
 
 ---
