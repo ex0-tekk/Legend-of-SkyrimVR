@@ -159,7 +159,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 
 ---
 
-- It's CRITICAL to install the All-In-One [**Visual C Runtime Packages**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [**Binaural 3D Surround Sound for SkrimVR**](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, **install the AIO package to cover ALL Visual C updates.**
+- It's **CRITICAL** to install the All-In-One [**Visual C Runtime Packages**](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/) available if you don't already have it, as the Feb 2022 release is a requirement for the 3D audio files from the [**Binaural 3D Surround Sound for SkrimVR**](https://www.nexusmods.com/skyrimspecialedition/mods/26916?tab=description) mod on the Nexus, **install the AIO package to cover ALL Visual C updates.**
 
 ---
 
