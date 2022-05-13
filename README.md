@@ -243,7 +243,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 - **IMPORTANT REMINDER: -DO NOT-** install **ANYthing** into your C:/Program Files or C:/Program Files (x86) folders, due to **admin restrictions**.
 
-- Now once the intitial software is done downloading, open the Wabbajack software and go to **Browse Modlists**, as shown below.
+- Now once the intitial software is done downloading, and installing, open the Wabbajack software and go to **Browse Modlists**, as shown below.
 
   ![WJ Install 1](https://user-images.githubusercontent.com/78007822/167326147-64a60abe-31b7-4731-bbdf-dda6d056596f.png)
 
