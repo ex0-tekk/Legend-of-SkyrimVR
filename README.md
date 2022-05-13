@@ -40,7 +40,7 @@
 
 ---
 
-## **1. Introduction and Modlist Features**
+## **1. INTRODUCTION and MODLIST FEATURES**
 
 ---
 
