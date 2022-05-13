@@ -138,7 +138,18 @@ DO NOT USE C:\Program Files  and  C:\Program Files (x86) <- **Ignore these 2 fol
 
 - If you want to use another drive for Steam or SkyrimVR, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
 
-- After you have confirmed SkyrimVR is installed in a folder outside of those 2 Program File folders mentioned above, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
+### EXAMPLE
+
+**Steam Install Location:**
+- C:\Steam
+
+**SkyrimVR Install Location:**
+- C:\Steam\steamapps\common\SkyrimVR
+
+**Legend of SkyrimVR Install Location:**
+- C:\LoSVR
+
+- After you have confirmed Steam and SkyrimVR are both installed correctly, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
 ---
 
@@ -419,6 +430,6 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
-- Latest LoSVR Guide Update, 05/09/2022
+- Latest LoSVR Guide Update, 05/12/2022
   
 ---
