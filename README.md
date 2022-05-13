@@ -132,11 +132,9 @@ Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of thes
 
 It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIVE.** 
 
-DO NOT USE C:\Program Files  and  C:\Program Files (x86) <- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
+**DO NOT USE** --> C:\Program Files  and  C:\Program Files (x86) <-- **Ignore these 2 folders for the entire process of this install guide, due to possible admin rights restrictions.**
 
-**It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE, C:\Steam\steamapps\common\SkyrimVR**
-
-- If you want to use another drive for Steam or SkyrimVR, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
+**It is also HIGHLY RECOMMENDED and BEST PRACTICE to have STEAM INSTALLED ON THE ROOT C DRIVE.**
 
 ### EXAMPLE
 
@@ -149,7 +147,9 @@ DO NOT USE C:\Program Files  and  C:\Program Files (x86) <- **Ignore these 2 fol
 **Legend of SkyrimVR Install Location:**
 - C:\LoSVR
 
-- After you have confirmed Steam and SkyrimVR are both installed correctly, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
+- If you want to use another drive for Steam or SkyrimVR, that's fine too, simply follow [**This Easy Guide**](https://drive.google.com/drive/folders/1lOBFqblzA23AbXFz-usTejOKR5UFsPjA?usp=sharing) to change steams game install locations, but regardless of this, **The Root C Drive is ALWAYS Highly Recommended for ALL installs regarding Steam, SkyrimVR and LoSVR.**
+
+- After you have confirmed Steam SkyrimVR are installed correctly, **start the default Steam version of SkyrimVR to have the game create the appropriate .ini file in the documents folder on your C drive**, once you see the Bethesda logo pop up, you can close the game and continue following this guide.
 
 ---
 
