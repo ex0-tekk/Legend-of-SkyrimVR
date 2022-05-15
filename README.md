@@ -93,7 +93,7 @@ Legend of SkyrimVR should run well on modern PC-VR configurations from medium to
 
 - **This should be a good start for decent performance.**
 
-A complete LoSVR install has a total size of roughly 82 GB (_this includes the initial LoSVR file download_), it’s **HIGHLY RECOMMENDED** that you **install this on a NVMe M.2 SSD for optimal performance**, although traditional SSD _should_ be fine.
+A complete LoSVR install has a total size of roughly 82 GB (_this includes the initial LoSVR file download._)
 
 Since I use a Rift S, the skyrimvr.ini files will reflect that, so a few of these .ini settings will need to be adjusted to suit your specific HMD and PC. **I will go over that and other recommended settings throughout this guide.**
 
