@@ -438,6 +438,6 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
-- Latest LoSVR Guide Update, 05/12/2022
+- Latest LoSVR Guide Update, 05/15/2022
   
 ---
