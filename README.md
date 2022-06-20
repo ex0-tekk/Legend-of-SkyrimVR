@@ -224,7 +224,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 - **20GB is the modded SkyrimVR standard if you have 16GB RAM**, I personally use 40GB pagefile size with 32GB of physical Ram, as I prefer the extra overhead.
 - **Use this number for both the initial size and max size on 1 free SSD with enough space.**
 - There is **no need to apply this pagefile size setting to multiple hard drives.**
-- Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is **HIGHLY RECOMMENDED** while using the pagefile setup with 1 free hard drive in this fashion, further details on this and how to configure the Windows Paging File Size is explained [**HERE**](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
+- Keeping your Windows drive (typically the C: Drive) set to SYSTEM MANAGED SIZE Is needed while using the pagefile setup with 1 free hard drive in this fashion, how to configure the Windows Paging File Size and additional info regarding System Managed Size is explained [**HERE**](https://www.howto-connect.com/tweak-paging-file-for-better-windows-10-performance/)
 
   ![Virtual Memory](https://user-images.githubusercontent.com/78007822/139851096-1b8f5275-4070-48ed-b974-58e80fb25349.png)
 
@@ -438,6 +438,6 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
-- Latest LoSVR Guide Update, 05/15/2022
+- Latest LoSVR Guide Update, 06/20/2022
   
 ---
