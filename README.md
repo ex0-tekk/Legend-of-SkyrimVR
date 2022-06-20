@@ -234,7 +234,7 @@ Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to 
 
 ---
 
-### **A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY 😵.**
+### **NOTE: A NEXUS PREMIUM ACCOUNT IS HIGHLY RECOMMENDED, OTHERWISE 500+ MODS WILL HAVE TO BE DOWNLOADED MANUALLY!** 😵
 
 - Download and install the current Wabbajack software linked [**HERE**](https://www.wabbajack.org/),
   **NOTE:** this Wabbajack software **is a hard requirement for LoSVR to install and work properly**.
