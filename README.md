@@ -1,6 +1,6 @@
 # Legend of SkyrimVR Install Guide
 
-![LoSVR 3 0 Logo](https://user-images.githubusercontent.com/78007822/205041073-5e9c64eb-c35b-4081-9c83-7d97dc010a0c.png)
+![LoSVR 3 0 1080 Logo](https://user-images.githubusercontent.com/78007822/205041182-6f7f64b1-3250-4cb5-8118-ae976b99725f.png)
 
 ---
 
