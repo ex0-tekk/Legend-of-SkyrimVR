@@ -342,6 +342,7 @@ LoSVR uses Adept difficulty by default, this is **CRITICAL** to utilize the Fine
 ---
 
 LoSVR uses several monster mods at its core which have either been repaired or enhanced with xEdit and CAO (or both), and to optimize and minimize any 4k textures down to 1k or 2k, LoSVR is hosting over 50 Mihail Monsters, Skyrim Immersive Creatures(SiC) & Relics of Hyrule (RoH) Monsters. Additionally, Skyrim Underground has it's own set of monsters spread out between 2 massive underground dungeons.  
+
 **NOTE:** **Adept difficulty is CRITICAL for ALL creature mods in LoSVR to work with Fine-Tuned Challenge**, otherwise you will simply be using vanilla difficulty settings.
 
 ---
