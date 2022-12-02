@@ -353,8 +353,6 @@ LoSVR uses several monster mods at its core which have either been repaired or e
 
 Difficulty Settings for **Followers GIVING DAMAGE can be adjusted** in the Nethers Follower Framework mod settings inside MCM. It is also **possible to ADD custom Followers like Inigo and Lucien into the Framework** so they can use the NFF rules, I have tested this feature extensively over months of playtime as I always take these followers with me on ALL playthrough adventures, and it works like a charm, Access their dialogue menu after recruiting them into your party and then simply choose the NFF Import option. **Please read this very helpful** [**PDF Guide**](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=153383&game_id=1704) from the author of NFF, if needed, as **this mod has a slew of options to get acquainted with.**
 
-Also included is [**Ashien's Cursed Rings**](https://www.nexusmods.com/skyrim/mods/64530), these are located inside a chest near the Riverwood Trader merchant, **this mod will help your followers effectively TAKE DAMAGE at higher levels if you decide to not use NFF for this function**, so your followers are Not be god-like DMG sponges.
-
 ![NFF](https://user-images.githubusercontent.com/78007822/139795556-8f090a9c-5fd6-473e-98be-26f89e807455.png)
 
 ---
