@@ -271,7 +271,7 @@ Select Add an exclusion, and then select SkyrimVR.exe, now **repeat this a secon
 
 There are a few .ini settings you _should_ be aware of, because we don’t all use the same PC-VR setup, so it’s best to adjust these based on your VR resolution and CPU threads.
 
-**NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later, LoSVR uses 2.4.4**
+**NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later, LoSVR uses 2.4.4.**
 
 Look inside the LoSVR folder & open ModOrganizer.exe (remember to add this exe file to your Anti Virus Exclusions, as mentioned previously in this guide.) 
 Once it’s open, click on this icon.
@@ -440,6 +440,6 @@ Also **make sure to Copy the Skyrim.ini file and place it inside your root Skyri
 
 ![LoSVR Dark Banner Footer 420](https://user-images.githubusercontent.com/78007822/167746683-53ecdadc-e967-4650-90da-e300007ddfed.png)
 
-- Latest LoSVR Guide Update, 01/02/2023
+- Latest LoSVR Guide Update, 01/05/2023
   
 ---
