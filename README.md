@@ -175,7 +175,7 @@ It is **CRITICAL** to have a **100% fresh install of SkyrimVR ON THE ROOT C DRIV
 - It's **CRITICAL to add SkyrimVR.exe and ModOrganizer2.exe (LoSVR) to your Windows Antivirus Exclusions** to prevent random CTD (**_even if you have antivirus turned off, it still background scans._**)
   
 - Go to **Start > Settings > Update & Security > Windows Security > Virus & threat protection**, under Virus & threat protection settings, select **Manage settings**, and then under Exclusions, select **Add or remove exclusions**.
-Select Add an exclusion, and then select SkyrimVR.exe and do this a 2nd time to pick the Steam folder and ModOrganizer.exe.
+Select Add an exclusion, and then select SkyrimVR.exe **repeat this a second time to include ModOrganizer.exe AFTER LoSVR has been fully installed, as it is currently not available at this stage of the install process.**
 
   ![v1-420](https://user-images.githubusercontent.com/78007822/147438064-82fd9c74-a749-472e-95f8-4b448e37cd2b.png)
   ![v2-420](https://user-images.githubusercontent.com/78007822/147438073-0799b866-fbd4-4344-a00f-bc776c81b588.png)
