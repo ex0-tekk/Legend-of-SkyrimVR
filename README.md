@@ -273,7 +273,8 @@ There are a few .ini settings you _should_ be aware of, because we don’t all u
 
 **NOTE: Windows 11 users can ONLY USE MO2 2.4.2 or later.**
 
-Look inside the LoSVR folder & open ModOrganizer.exe (2.4.4) Once it’s open, click on this icon.
+Look inside the LoSVR folder & open ModOrganizer.exe (remember to add this exe file to your Anti Virus Exclusions, as mentioned previously in this guide.) 
+Once it’s open, click on this icon.
 
 ![Skyrim ini Tweaker Small](https://user-images.githubusercontent.com/78007822/139736342-91ff8313-2d95-460a-b9ab-b8483e5fbc0b.png)
 This configuration window will pop up.⬇️
